@@ -1,3 +1,6 @@
+# mac finder component to avoid merge conflicts
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
