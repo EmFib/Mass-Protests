@@ -1,0 +1,161 @@
+country,arrests,accomodation,beatings,crowddispersal,ignore,killings,shootings,Count of Protests,Most Common Response
+Afghanistan,2,3,0,6,26,2,5,44,Ignore
+Albania,7,14,12,30,37,5,3,108,Ignore
+Algeria,6,4,1,44,46,7,2,110,Ignore
+Angola,7,0,4,7,12,2,1,33,Ignore
+Argentina,14,19,3,30,74,1,2,143,Ignore
+Armenia,12,2,5,14,76,3,2,114,Ignore
+Austria,1,0,1,3,10,0,0,15,Ignore
+Azerbaijan,48,7,21,34,48,4,4,166,Ignore
+Bahrain,9,4,4,34,8,3,5,67,Crowd Dispersal
+Bangladesh,93,25,48,203,87,37,25,518,Crowd Dispersal
+Belarus,33,0,11,22,31,0,0,97,Arrests
+Belgium,6,5,0,12,24,0,0,47,Ignore
+Benin,4,4,3,36,21,1,1,70,Crowd Dispersal
+Bolivia,21,43,3,62,70,11,12,222,Ignore
+Bosnia and Herzegovina,1,1,1,4,34,0,1,42,Ignore
+Botswana,4,5,2,8,18,1,0,38,Ignore
+Brazil,16,20,2,64,143,8,5,258,Ignore
+Bulgaria,6,25,3,22,90,0,1,147,Ignore
+Burkina Faso,12,16,1,29,29,5,8,100,Ignore
+Burundi,18,4,5,58,31,9,14,139,Crowd Dispersal
+Cambodia,5,2,7,23,26,7,9,79,Ignore
+Cameroon,21,3,10,35,13,9,7,98,Crowd Dispersal
+Canada,13,6,0,9,30,1,2,61,Ignore
+Cape Verde,0,0,0,1,1,0,0,2,Ignore
+Central African Republic,8,5,3,26,24,8,20,94,Crowd Dispersal
+Chad,4,1,1,10,1,5,7,29,Crowd Dispersal
+Chile,71,9,1,83,62,4,1,231,Crowd Dispersal
+China,83,52,42,122,114,17,20,450,Crowd Dispersal
+Colombia,2,11,1,37,93,9,2,155,Ignore
+Comoros,19,5,4,52,20,4,15,119,Crowd Dispersal
+Democratic Republic of the Congo,25,6,7,58,34,27,31,188,Crowd Dispersal
+Costa Rica,5,6,2,13,20,0,0,46,Ignore
+Croatia,0,1,0,2,23,0,0,26,Ignore
+Cuba,42,0,2,3,55,0,0,102,Ignore
+Cyprus,7,17,0,48,70,0,0,142,Ignore
+Czech Republic,0,3,0,4,30,0,0,37,Ignore
+Denmark,6,0,1,4,3,0,1,15,Arrests
+Djibouti,5,0,2,7,1,4,3,22,Crowd Dispersal
+Dominican Republic,16,4,3,18,40,5,15,101,Ignore
+Ecuador,19,19,1,74,61,12,2,188,Crowd Dispersal
+Egypt,38,10,17,47,43,24,26,205,Crowd Dispersal
+El Salvador,2,2,1,16,28,3,4,56,Ignore
+Equatorial Guinea,2,0,1,1,2,1,0,7,Ignore
+Eritrea,2,1,0,1,0,0,0,4,Arrests
+Estonia,3,3,0,2,43,0,0,51,Ignore
+Ethiopia,10,7,6,10,12,16,7,68,Killings
+Finland,1,1,0,0,10,0,0,12,Ignore
+France,90,61,0,198,305,0,0,654,Ignore
+Gabon,9,2,3,23,11,5,4,57,Crowd Dispersal
+Gambia,6,1,2,11,9,4,3,36,Crowd Dispersal
+Georgia,7,13,3,6,31,1,6,67,Ignore
+Germany,26,7,7,74,293,0,0,407,Ignore
+Ghana,5,13,0,24,32,1,6,81,Ignore
+Greece,37,12,10,125,187,2,0,373,Ignore
+Guatemala,5,5,1,13,88,3,5,120,Ignore
+Guinea,25,7,20,76,16,40,39,223,Crowd Dispersal
+Guinea-Bissau,3,6,1,13,14,3,3,43,Ignore
+Guyana,8,8,2,19,16,3,6,62,Crowd Dispersal
+Haiti,11,9,6,43,60,6,20,155,Ignore
+Honduras,5,10,4,40,63,4,7,133,Ignore
+Hungary,4,2,0,17,51,0,0,74,Ignore
+India,23,34,12,71,91,46,28,305,Ignore
+Indonesia,3,17,4,59,65,13,4,165,Ignore
+Iran,36,9,25,27,36,12,17,162,Ignore
+Iraq,4,7,5,32,73,33,35,189,Ignore
+Ireland,15,24,0,32,370,0,0,441,Ignore
+Italy,11,11,3,49,109,0,0,183,Ignore
+Ivory Coast,14,5,16,52,49,9,11,156,Crowd Dispersal
+Jamaica,3,3,0,9,15,2,4,36,Ignore
+Japan,3,13,0,3,43,0,0,62,Ignore
+Jordan,4,11,5,7,25,2,2,56,Ignore
+Kazakhstan,17,12,2,9,56,4,1,101,Ignore
+Kenya,32,75,25,147,155,25,44,503,Ignore
+Kosovo,1,1,0,11,8,0,0,21,Crowd Dispersal
+Kuwait,13,1,4,15,20,0,0,53,Ignore
+Kyrgyzstan,21,15,2,20,113,2,4,177,Ignore
+Laos,2,0,0,1,0,0,0,3,Arrests
+Latvia,1,2,1,0,81,0,0,85,Ignore
+Lebanon,3,6,2,77,40,3,2,133,Crowd Dispersal
+Lesotho,3,8,2,8,14,3,7,45,Ignore
+Liberia,11,16,6,37,25,3,2,100,Crowd Dispersal
+Libya,0,4,0,4,12,3,7,30,Ignore
+Lithuania,1,1,0,2,32,0,0,36,Ignore
+Luxembourg,0,0,0,0,3,0,0,3,Ignore
+North Macedonia,3,3,3,19,62,1,1,92,Ignore
+Madagascar,12,51,2,19,30,14,14,142,Accomodations
+Malawi,15,3,4,39,23,8,13,105,Crowd Dispersal
+Malaysia,43,7,8,46,85,1,0,190,Ignore
+Mali,6,8,1,20,36,8,6,85,Ignore
+Mauritania,11,1,5,47,37,1,2,104,Crowd Dispersal
+Mauritius,2,2,0,6,5,1,1,17,Crowd Dispersal
+Mexico,11,23,2,21,103,8,8,176,Ignore
+Moldova,7,18,3,22,81,0,0,131,Ignore
+Mongolia,1,9,0,8,35,0,0,53,Ignore
+Montenegro,2,0,1,4,11,0,0,18,Ignore
+Morocco,8,3,2,8,23,2,0,46,Ignore
+Mozambique,18,9,10,28,31,12,10,118,Ignore
+Myanmar,14,4,4,11,50,3,4,90,Ignore
+Namibia,9,51,3,40,150,0,3,256,Ignore
+Nepal,64,26,17,69,72,20,29,297,Ignore
+Netherlands,3,1,0,4,8,0,0,16,Ignore
+Nicaragua,18,7,3,35,47,9,19,138,Ignore
+Niger,21,5,7,39,57,3,2,134,Ignore
+Nigeria,15,11,1,50,98,21,23,219,Ignore
+North Korea,3,1,0,1,1,2,0,8,Arrests
+Norway,1,0,0,0,5,0,0,6,Ignore
+Oman,0,4,0,4,19,1,1,29,Ignore
+Pakistan,12,27,10,50,82,9,14,204,Ignore
+Panama,17,6,4,25,16,2,16,86,Crowd Dispersal
+Papua New Guinea,1,14,0,12,17,2,3,49,Ignore
+Paraguay,4,4,0,17,44,2,0,71,Ignore
+Peru,14,12,2,51,92,13,1,185,Ignore
+Philippines,1,10,0,12,44,1,1,69,Ignore
+Poland,3,7,1,13,103,0,0,127,Ignore
+Portugal,1,2,0,3,28,0,1,35,Ignore
+Qatar,0,0,0,0,1,0,0,1,Ignore
+Romania,11,37,5,38,155,1,2,249,Ignore
+Russia,72,12,15,20,114,0,2,235,Ignore
+Rwanda,0,3,1,3,4,0,0,11,Ignore
+Saudi Arabia,8,2,2,4,6,2,4,28,Arrests
+Senegal,9,2,2,25,13,4,3,58,Crowd Dispersal
+Serbia,3,0,1,4,27,0,0,35,Ignore
+Serbia and Montenegro,0,0,1,2,0,0,0,3,Crowd Dispersal
+Sierra Leone,5,3,0,14,14,2,4,42,Ignore
+Singapore,3,1,0,2,11,0,0,17,Ignore
+Slovak Republic,2,3,1,4,36,0,0,46,Ignore
+Slovenia,1,0,0,3,18,0,0,22,Ignore
+Somalia,0,2,0,6,12,4,4,28,Ignore
+South Africa,32,14,6,69,82,21,24,248,Ignore
+South Korea,53,29,86,90,208,0,0,466,Ignore
+South Sudan,0,0,0,0,0,1,0,1,Killings
+Spain,21,5,1,33,124,0,1,185,Ignore
+Sri Lanka,2,7,0,27,40,1,4,81,Ignore
+Sudan,19,3,11,41,15,21,10,120,Crowd Dispersal
+Suriname,1,11,0,3,36,0,0,51,Ignore
+Eswatini,14,5,20,49,34,2,8,132,Crowd Dispersal
+Sweden,3,0,0,2,12,0,0,17,Ignore
+Switzerland,0,0,0,1,8,0,0,9,Ignore
+Syrian Arab Republis,3,3,2,1,9,3,2,23,Ignore
+Taiwan,5,11,9,32,103,0,0,160,Ignore
+Tajikistan,1,11,1,2,19,2,2,38,Ignore
+Tanzania,14,2,3,19,12,6,8,64,Crowd Dispersal
+Thailand,11,43,1,42,171,3,1,272,Ignore
+East Timor,5,4,0,4,6,1,2,22,Ignore
+Togo,8,4,8,56,36,7,9,128,Crowd Dispersal
+Tunisia,8,8,5,18,19,3,4,65,Ignore
+Turkey,15,4,6,54,53,7,5,144,Crowd Dispersal
+Turkmenistan,0,1,0,2,2,0,0,5,Ignore
+Russia,1,7,4,3,47,2,1,65,Ignore
+Uganda,24,4,7,38,21,11,22,127,Crowd Dispersal
+Ukraine,8,22,9,54,85,5,7,190,Ignore
+United Arab Emirates,1,1,0,0,1,0,0,3,Ignore
+United Kingdom,116,36,11,149,355,1,0,668,Ignore
+Uruguay,1,5,0,1,61,0,0,68,Ignore
+Uzbekistan,5,8,1,10,16,4,4,48,Ignore
+Venezuela,40,24,9,120,161,23,20,397,Ignore
+Vietnam,7,7,2,10,2,0,0,28,Crowd Dispersal
+Yemen,9,11,6,44,67,36,52,225,Ignore
+Zambia,29,10,6,41,37,6,8,137,Crowd Dispersal
+Zimbabwe,29,11,31,60,40,5,8,184,Crowd Dispersal
