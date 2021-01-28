@@ -1,4 +1,4 @@
-region,country,protest_size_category_Less than 50,protest_size_category_50-99,protest_size_category_100-999,"protest_size_category_1,000-4,999","protest_size_category_5,000-9,999","protest_size_category_10,000-100,000","protest_size_category_Over 100,000"
+region,country,protest_size_Less than 50,protest_size_50-99,protest_size_100-999,"protest_size_1,000-4,999","protest_size_5,000-9,999","protest_size_10,000-100,000","protest_size_Over 100,000"
 Africa,Angola,0,3,14,4,1,2,0
 Africa,Benin,0,9,43,3,0,4,0
 Africa,Botswana,0,11,12,8,0,1,0
