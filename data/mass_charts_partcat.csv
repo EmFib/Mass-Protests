@@ -1,0 +1,166 @@
+region,country,protest_size_category_Less than 50,protest_size_category_50-99,protest_size_category_100-999,"protest_size_category_1,000-4,999","protest_size_category_5,000-9,999","protest_size_category_10,000-100,000","protest_size_category_Over 100,000"
+Africa,Angola,0,3,14,4,1,2,0
+Africa,Benin,0,9,43,3,0,4,0
+Africa,Botswana,0,11,12,8,0,1,0
+Africa,Burkina Faso,0,20,17,21,1,8,0
+Africa,Burundi,0,40,34,16,3,5,0
+Africa,Cameroon,0,21,23,9,4,2,0
+Africa,Cape Verde,0,0,2,0,0,0,0
+Africa,Central African Republic,0,26,18,12,3,2,0
+Africa,Chad,0,11,5,0,0,1,0
+Africa,Comoros,0,37,35,4,3,0,0
+Africa,Congo Brazzaville,0,21,10,3,0,1,0
+Africa,Congo Kinshasa,0,37,23,14,4,1,0
+Africa,Djibouti,0,5,4,1,0,0,0
+Africa,Equatorial Guinea,0,1,3,0,0,0,0
+Africa,Eritrea,0,1,2,0,0,0,0
+Africa,Ethiopia,0,11,13,9,2,3,2
+Africa,Gabon,0,12,17,5,0,1,0
+Africa,Gambia,0,11,7,2,0,1,0
+Africa,Ghana,0,25,22,14,3,2,0
+Africa,Guinea,0,44,40,16,0,5,3
+Africa,Guinea-Bissau,0,5,13,10,2,1,0
+Africa,Ivory Coast,0,41,46,17,1,8,0
+Africa,Kenya,0,162,139,40,3,6,0
+Africa,Lesotho,0,12,7,10,1,3,0
+Africa,Liberia,0,29,23,13,2,3,0
+Africa,Madagascar,0,8,66,13,3,13,8
+Africa,Malawi,0,15,23,19,4,4,0
+Africa,Mali,0,12,24,7,3,6,1
+Africa,Mauritania,0,27,34,17,1,3,0
+Africa,Mauritius,0,1,11,1,0,0,0
+Africa,Mozambique,0,34,28,12,0,1,0
+Africa,Namibia,0,79,121,23,1,1,0
+Africa,Niger,0,25,37,34,6,4,0
+Africa,Nigeria,0,91,46,23,2,3,0
+Africa,Rwanda,0,2,2,3,0,3,0
+Africa,Senegal,0,19,19,6,0,1,0
+Africa,Sierra Leone,0,16,17,1,0,0,0
+Africa,Somalia,0,7,5,7,2,1,0
+Africa,South Africa,0,20,62,47,7,39,1
+Africa,South Sudan,0,1,0,0,0,0,0
+Africa,Swaziland,0,12,46,27,10,2,0
+Africa,Tanzania,0,17,11,7,0,2,0
+Africa,Togo,0,21,24,43,2,4,0
+Africa,Uganda,0,27,29,6,2,0,0
+Africa,Zambia,0,46,25,20,2,2,0
+Africa,Zimbabwe,0,40,52,20,1,2,0
+Asia,Afghanistan,0,6,18,10,1,4,0
+Asia,Bangladesh,2,81,152,57,11,26,3
+Asia,Cambodia,0,12,19,14,1,7,0
+Asia,China,2,32,100,92,10,68,14
+Asia,India,0,59,54,72,6,28,8
+Asia,Indonesia,0,15,44,57,10,23,4
+Asia,Japan,0,9,14,16,1,18,1
+Asia,Kazakhstan,0,12,51,17,5,3,0
+Asia,Kyrgyzstan,9,19,88,39,5,2,0
+Asia,Laos,0,1,1,0,0,0,0
+Asia,Malaysia,0,27,67,33,4,16,1
+Asia,Mongolia,0,2,17,22,5,4,0
+Asia,Myanmar,0,14,36,22,1,7,0
+Asia,Nepal,0,26,90,56,12,19,3
+Asia,North Korea,0,4,3,0,0,1,0
+Asia,Pakistan,0,31,54,53,6,30,3
+Asia,Philippines,0,6,10,15,8,23,2
+Asia,Singapore,0,2,11,0,2,0,0
+Asia,South Korea,0,25,68,83,30,124,13
+Asia,Sri Lanka,0,24,22,19,0,8,1
+Asia,Taiwan,0,11,39,36,6,43,8
+Asia,Tajikistan,1,4,13,13,0,1,0
+Asia,Thailand,0,35,68,74,12,58,5
+Asia,Timor Leste,0,4,6,2,0,0,0
+Asia,Turkmenistan,0,2,1,1,0,0,0
+Asia,Uzbekistan,0,4,18,11,1,1,0
+Asia,Vietnam,0,2,9,7,0,0,0
+Central America,Costa Rica,0,4,14,11,1,6,1
+Central America,El Salvador,0,8,26,13,0,1,0
+Central America,Guatemala,0,7,40,51,2,9,0
+Central America,Honduras,0,5,32,50,7,19,0
+Central America,Nicaragua,0,17,28,30,4,8,1
+Central America,Panama,0,10,22,13,1,3,0
+Europe,Albania,0,9,8,43,4,13,1
+Europe,Armenia,0,6,22,25,12,37,2
+Europe,Austria,0,1,1,4,2,4,1
+Europe,Azerbaijan,0,19,57,29,4,15,0
+Europe,Belarus,0,9,20,22,6,14,0
+Europe,Belgium,0,7,10,10,2,11,1
+Europe,Bosnia,0,4,16,18,1,1,0
+Europe,Bulgaria,0,37,12,41,7,28,0
+Europe,Croatia,0,4,5,5,4,8,0
+Europe,Cyprus,0,30,69,21,1,9,0
+Europe,Czech Republic,0,2,9,9,2,8,2
+Europe,Czechoslovakia,0,0,1,1,0,2,0
+Europe,Denmark,0,4,5,1,0,1,0
+Europe,Estonia,0,8,27,10,3,1,0
+Europe,Finland,0,4,3,3,0,2,0
+Europe,France,0,149,139,95,6,100,58
+Europe,Georgia,0,7,14,24,3,11,0
+Europe,Germany,0,91,47,144,9,55,18
+Europe,Germany East,0,1,0,4,0,5,1
+Europe,Germany West,0,1,0,0,1,0,0
+Europe,Greece,0,84,68,89,18,50,6
+Europe,Hungary,0,7,12,21,3,28,1
+Europe,Ireland,0,114,200,68,21,28,0
+Europe,Italy,1,42,37,33,3,34,16
+Europe,Kosovo,0,5,5,8,1,1,0
+Europe,Latvia,0,8,43,21,7,6,0
+Europe,Lithuania,0,5,20,6,4,0,0
+Europe,Luxembourg,0,1,1,0,0,1,0
+Europe,Macedonia,0,10,26,36,3,10,0
+Europe,Moldova,0,17,14,44,8,24,1
+Europe,Montenegro,0,0,6,5,3,1,0
+Europe,Netherlands,0,5,5,2,0,1,0
+Europe,Norway,0,1,2,1,0,2,0
+Europe,Poland,0,30,26,42,3,19,2
+Europe,Portugal,0,13,7,7,0,5,1
+Europe,Romania,0,17,38,88,18,56,2
+Europe,Russia,0,27,56,60,10,48,3
+Europe,Serbia,0,3,5,15,1,7,0
+Europe,Serbia and Montenegro,0,0,0,2,0,0,0
+Europe,Slovak Republic,0,5,7,14,5,13,0
+Europe,Slovenia,0,3,4,5,4,5,0
+Europe,Spain,0,26,20,44,5,44,28
+Europe,Sweden,0,4,6,5,0,1,0
+Europe,Switzerland,0,3,0,3,1,2,0
+Europe,USSR,1,9,5,15,3,24,3
+Europe,Ukraine,0,47,31,38,16,14,2
+Europe,United Kingdom,0,161,209,119,20,58,10
+Europe,Yugoslavia,0,10,18,36,12,58,3
+MENA,Algeria,0,10,18,27,0,42,8
+MENA,Bahrain,0,11,20,9,0,5,0
+MENA,Egypt,2,22,33,47,2,18,2
+MENA,Iran,0,25,33,49,1,14,1
+MENA,Iraq,1,17,33,56,2,17,0
+MENA,Jordan,0,3,21,15,4,2,0
+MENA,Kuwait,0,7,19,14,0,1,0
+MENA,Lebanon,0,8,17,18,3,59,17
+MENA,Libya,0,7,7,7,0,2,0
+MENA,Morocco,0,5,14,12,2,3,4
+MENA,Oman,0,0,23,3,0,0,0
+MENA,Qatar,0,0,1,0,0,0,0
+MENA,Saudi Arabia,1,2,11,6,1,0,0
+MENA,Sudan,0,12,28,20,0,4,0
+MENA,Syria,0,5,7,4,0,1,0
+MENA,Tunisia,0,6,15,18,1,4,0
+MENA,Turkey,0,37,31,39,2,14,4
+MENA,United Arab Emirate,0,0,2,1,0,0,0
+MENA,Yemen,0,39,31,41,0,43,3
+North America,Canada,1,8,24,11,1,4,4
+North America,Cuba,0,59,39,1,0,0,0
+North America,Dominican Republic,0,14,26,4,0,27,0
+North America,Haiti,0,9,47,58,1,8,0
+North America,Jamaica,0,9,14,5,0,0,0
+North America,Mexico,0,26,45,47,2,25,6
+Oceania,Papua New Guinea,0,7,15,15,1,0,0
+South America,Argentina,0,19,20,40,5,26,5
+South America,Bolivia,0,31,46,44,8,14,0
+South America,Brazil,2,62,46,61,3,41,9
+South America,Chile,0,48,27,60,13,19,4
+South America,Colombia,0,25,10,35,15,32,22
+South America,Ecuador,0,53,31,48,8,16,4
+South America,Guyana,1,13,14,5,1,1,0
+South America,Paraguay,0,15,11,24,7,9,0
+South America,Peru,0,36,29,48,15,34,4
+South America,Suriname,0,20,15,9,3,4,0
+South America,Uruguay,0,40,5,17,0,6,0
+South America,Venezuela,1,90,77,71,8,42,27
