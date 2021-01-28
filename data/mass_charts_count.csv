@@ -1,0 +1,166 @@
+region,country,prosperity_2020,protest_count
+Africa,Angola,38.81685609,24
+Africa,Benin,46.8189185,59
+Africa,Botswana,57.09357257,32
+Africa,Burkina Faso,44.82409791,67
+Africa,Burundi,37.30460093,98
+Africa,Cameroon,41.44673443,59
+Africa,Cape Verde,58.1712069,2
+Africa,Central African Republic,31.3620761,61
+Africa,Chad,32.50863342,17
+Africa,Comoros,46.32741736,79
+Africa,Congo Brazzaville,41.21415896,35
+Africa,Congo Kinshasa,34.55323436,79
+Africa,Djibouti,48.15682444,10
+Africa,Equatorial Guinea,45.77143615,4
+Africa,Eritrea,34.94045603,3
+Africa,Ethiopia,41.80557068,40
+Africa,Gabon,47.92247865,35
+Africa,Gambia,49.66197313,21
+Africa,Ghana,53.81057336,66
+Africa,Guinea,44.03171063,108
+Africa,Guinea-Bissau,42.05402947,31
+Africa,Ivory Coast,47.30930026,113
+Africa,Kenya,50.98856132,350
+Africa,Lesotho,46.0613757,33
+Africa,Liberia,44.01979084,70
+Africa,Madagascar,44.81329037,111
+Africa,Malawi,45.74189697,65
+Africa,Mali,41.90008141,53
+Africa,Mauritania,40.27764047,82
+Africa,Mauritius,66.57926369,13
+Africa,Mozambique,42.98420655,75
+Africa,Namibia,56.16068511,225
+Africa,Niger,41.20043564,106
+Africa,Nigeria,42.92031129,165
+Africa,Rwanda,53.25156445,10
+Africa,Senegal,51.56051808,45
+Africa,Sierra Leone,42.5658761,34
+Africa,Somalia,34.06274667,22
+Africa,South Africa,56.43021646,176
+Africa,South Sudan,27.88881332,1
+Africa,Swaziland,45.65881067,97
+Africa,Tanzania,48.57371994,37
+Africa,Togo,44.02963866,94
+Africa,Uganda,45.66987397,64
+Africa,Zambia,47.50968421,95
+Africa,Zimbabwe,42.97758723,115
+Asia,Afghanistan,34.35005485,39
+Asia,Bangladesh,46.91402411,332
+Asia,Cambodia,48.54897388,53
+Asia,China,61.49173609,318
+Asia,India,53.64035284,227
+Asia,Indonesia,61.1039055,153
+Asia,Japan,77.27416589,59
+Asia,Kazakhstan,60.57386046,88
+Asia,Kyrgyzstan,55.9932232,162
+Asia,Laos,49.91988117,2
+Asia,Malaysia,67.49132725,148
+Asia,Mongolia,56.73317118,50
+Asia,Myanmar,46.7792975,80
+Asia,Nepal,50.44833585,206
+Asia,North Korea,44.35169032,8
+Asia,Pakistan,44.2519236,177
+Asia,Philippines,56.90072429,64
+Asia,Singapore,79.51240804,15
+Asia,South Korea,73.43860512,343
+Asia,Sri Lanka,56.88180736,74
+Asia,Taiwan,77.14961719,143
+Asia,Tajikistan,51.26182772,32
+Asia,Thailand,60.41110604,252
+Asia,Timor Leste,61.1039055,12
+Asia,Turkmenistan,51.63871264,4
+Asia,Uzbekistan,54.36711682,35
+Asia,Vietnam,58.27634384,18
+Central America,Costa Rica,68.33738194,37
+Central America,El Salvador,54.99037414,48
+Central America,Guatemala,53.5796447,109
+Central America,Honduras,52.21304146,113
+Central America,Nicaragua,51.38097409,88
+Central America,Panama,63.89106213,49
+Europe,Albania,59.57363566,78
+Europe,Armenia,61.40723638,104
+Europe,Austria,80.42976714,13
+Europe,Azerbaijan,57.69110961,124
+Europe,Belarus,59.33479099,71
+Europe,Belgium,76.13402531,41
+Europe,Bosnia,57.99827262,40
+Europe,Bulgaria,64.3996892,125
+Europe,Croatia,66.60944408,26
+Europe,Cyprus,70.31697058,130
+Europe,Czech Republic,73.12461227,32
+Europe,Czechoslovakia,73.12461227,4
+Europe,Denmark,84.36811727,11
+Europe,Estonia,76.89146225,49
+Europe,Finland,83.05272586,12
+Europe,France,76.54794808,547
+Europe,Georgia,61.81578365,59
+Europe,Germany,81.07123534,364
+Europe,Germany East,81.07123534,11
+Europe,Germany West,81.07123534,2
+Europe,Greece,67.32495467,315
+Europe,Hungary,66.12517282,72
+Europe,Ireland,80.17604401,431
+Europe,Italy,71.83329843,166
+Europe,Kosovo,62.47099083,20
+Europe,Latvia,71.00714487,85
+Europe,Lithuania,70.23631243,35
+Europe,Luxembourg,81.01693889,3
+Europe,Macedonia,61.01354959,85
+Europe,Moldova,57.1275575,108
+Europe,Montenegro,63.67629133,15
+Europe,Netherlands,82.03761775,13
+Europe,Norway,83.81479956,6
+Europe,Poland,69.13943114,122
+Europe,Portugal,74.07442358,33
+Europe,Romania,64.91806154,219
+Europe,Russia,58.03836961,204
+Europe,Serbia,62.47099083,31
+Europe,Serbia and Montenegro,63.07364108,2
+Europe,Slovak Republic,69.62524615,44
+Europe,Slovenia,74.56314954,21
+Europe,Spain,75.83652122,167
+Europe,Sweden,83.14595339,16
+Europe,Switzerland,83.34870608,9
+Europe,USSR,58.03836961,60
+Europe,Ukraine,55.73378904,148
+Europe,United Kingdom,80.06544204,577
+Europe,Yugoslavia,64.38861633,137
+MENA,Algeria,51.86911968,105
+MENA,Bahrain,61.31058943,45
+MENA,Egypt,47.98428526,126
+MENA,Iran,48.12261347,123
+MENA,Iraq,44.55745415,126
+MENA,Jordan,56.58803151,45
+MENA,Kuwait,61.0166069,41
+MENA,Lebanon,52.99571079,122
+MENA,Libya,41.87106056,23
+MENA,Morocco,54.86477027,40
+MENA,Oman,59.68361369,26
+MENA,Qatar,66.4553199,1
+MENA,Saudi Arabia,59.01216852,21
+MENA,Sudan,36.5680542,64
+MENA,Syria,37.07242896,17
+MENA,Tunisia,54.05947406,44
+MENA,Turkey,54.94157061,127
+MENA,United Arab Emirate,67.10868797,3
+MENA,Yemen,31.86863031,157
+North America,Canada,79.81970283,53
+North America,Cuba,53.31841605,99
+North America,Dominican Republic,58.70480596,71
+North America,Haiti,39.2808751,123
+North America,Jamaica,59.93792735,28
+North America,Mexico,59.52648493,151
+Oceania,Papua New Guinea,46.06520312,38
+South America,Argentina,60.4873545,115
+South America,Bolivia,52.27586438,143
+South America,Brazil,59.30748189,224
+South America,Chile,68.39267723,171
+South America,Colombia,58.19313052,139
+South America,Ecuador,56.11737417,160
+South America,Guyana,55.87170059,35
+South America,Paraguay,57.46867739,66
+South America,Peru,60.6671479,166
+South America,Suriname,57.1051446,51
+South America,Uruguay,68.24114342,68
+South America,Venezuela,42.08572549,316
