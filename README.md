@@ -11,7 +11,7 @@
 7. [Conclusion & Recommendations](#7.-Conclusion-&-Recommendations)
 8. [Next Steps & Future work](#8.-Next-Steps-&-Future-work)
 9. [Citations](#9.-Citations)
-10. [Acknowledgements](#10.-Acknowledgements)
+10.[Acknowledgements](#Acknowledgements)
 
 
 
@@ -70,4 +70,4 @@
 
 
 
-## 10. Acknowledgements
+##Acknowledgements
