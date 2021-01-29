@@ -1,0 +1,1258 @@
+region,country,protester_id_type,partipants_number
+Africa,Angola,civil_human_rights,1
+Africa,Angola,political_group,5
+Africa,Angola,protestors_generic,7
+Africa,Angola,soldiers_veterans,2
+Africa,Angola,students_youth,5
+Africa,Angola,women,1
+Africa,Angola,workers_unions,3
+Africa,Benin,locals_residents,2
+Africa,Benin,political_group,28
+Africa,Benin,prisoners,1
+Africa,Benin,protestors_generic,16
+Africa,Benin,students_youth,6
+Africa,Benin,workers_unions,6
+Africa,Botswana,locals_residents,1
+Africa,Botswana,political_group,2
+Africa,Botswana,protestors_generic,6
+Africa,Botswana,students_youth,15
+Africa,Botswana,workers_unions,8
+Africa,Burkina Faso,locals_residents,2
+Africa,Burkina Faso,political_group,1
+Africa,Burkina Faso,protestors_generic,21
+Africa,Burkina Faso,religious_group,1
+Africa,Burkina Faso,soldiers_veterans,6
+Africa,Burkina Faso,students_youth,18
+Africa,Burkina Faso,women,2
+Africa,Burkina Faso,workers_unions,16
+Africa,Burundi,ethnic_group,1
+Africa,Burundi,locals_residents,9
+Africa,Burundi,pensioners_retirees,1
+Africa,Burundi,political_group,5
+Africa,Burundi,prisoners,3
+Africa,Burundi,protestors_generic,42
+Africa,Burundi,soldiers_veterans,1
+Africa,Burundi,students_youth,26
+Africa,Burundi,women,1
+Africa,Burundi,workers_unions,9
+Africa,Cameroon,locals_residents,4
+Africa,Cameroon,political_group,13
+Africa,Cameroon,prisoners,2
+Africa,Cameroon,protestors_generic,17
+Africa,Cameroon,religious_group,1
+Africa,Cameroon,soldiers_veterans,1
+Africa,Cameroon,students_youth,11
+Africa,Cameroon,women,1
+Africa,Cameroon,workers_unions,9
+Africa,Cape Verde,political_group,2
+Africa,Central African Republic,locals_residents,18
+Africa,Central African Republic,political_group,1
+Africa,Central African Republic,protestors_generic,10
+Africa,Central African Republic,religious_group,1
+Africa,Central African Republic,soldiers_veterans,6
+Africa,Central African Republic,students_youth,14
+Africa,Central African Republic,women,2
+Africa,Central African Republic,workers_unions,9
+Africa,Chad,locals_residents,3
+Africa,Chad,protestors_generic,5
+Africa,Chad,soldiers_veterans,1
+Africa,Chad,students_youth,8
+Africa,Comoros,civil_human_rights,1
+Africa,Comoros,ethnic_group,2
+Africa,Comoros,locals_residents,5
+Africa,Comoros,political_group,32
+Africa,Comoros,protestors_generic,19
+Africa,Comoros,soldiers_veterans,1
+Africa,Comoros,students_youth,11
+Africa,Comoros,victims_families,1
+Africa,Comoros,workers_unions,7
+Africa,Congo Brazzaville,locals_residents,1
+Africa,Congo Brazzaville,political_group,2
+Africa,Congo Brazzaville,protestors_generic,16
+Africa,Congo Brazzaville,soldiers_veterans,4
+Africa,Congo Brazzaville,students_youth,8
+Africa,Congo Brazzaville,workers_unions,4
+Africa,Congo Kinshasa,civil_human_rights,1
+Africa,Congo Kinshasa,locals_residents,15
+Africa,Congo Kinshasa,political_group,14
+Africa,Congo Kinshasa,protestors_generic,29
+Africa,Congo Kinshasa,religious_group,2
+Africa,Congo Kinshasa,soldiers_veterans,7
+Africa,Congo Kinshasa,students_youth,7
+Africa,Congo Kinshasa,women,1
+Africa,Congo Kinshasa,workers_unions,3
+Africa,Djibouti,ethnic_group,2
+Africa,Djibouti,locals_residents,1
+Africa,Djibouti,political_group,1
+Africa,Djibouti,soldiers_veterans,1
+Africa,Djibouti,workers_unions,5
+Africa,Equatorial Guinea,protestors_generic,1
+Africa,Equatorial Guinea,soldiers_veterans,1
+Africa,Equatorial Guinea,students_youth,1
+Africa,Equatorial Guinea,workers_unions,1
+Africa,Eritrea,soldiers_veterans,1
+Africa,Eritrea,students_youth,2
+Africa,Ethiopia,ethnic_group,1
+Africa,Ethiopia,locals_residents,3
+Africa,Ethiopia,political_group,5
+Africa,Ethiopia,protestors_generic,14
+Africa,Ethiopia,religious_group,6
+Africa,Ethiopia,students_youth,8
+Africa,Ethiopia,workers_unions,3
+Africa,Gabon,locals_residents,5
+Africa,Gabon,political_group,2
+Africa,Gabon,protestors_generic,16
+Africa,Gabon,soldiers_veterans,1
+Africa,Gabon,students_youth,8
+Africa,Gabon,workers_unions,3
+Africa,Gambia,locals_residents,3
+Africa,Gambia,pensioners_retirees,2
+Africa,Gambia,political_group,2
+Africa,Gambia,protestors_generic,5
+Africa,Gambia,soldiers_veterans,3
+Africa,Gambia,students_youth,6
+Africa,Ghana,locals_residents,8
+Africa,Ghana,pensioners_retirees,1
+Africa,Ghana,political_group,5
+Africa,Ghana,protestors_generic,11
+Africa,Ghana,religious_group,1
+Africa,Ghana,soldiers_veterans,1
+Africa,Ghana,students_youth,23
+Africa,Ghana,workers_unions,16
+Africa,Guinea,locals_residents,15
+Africa,Guinea,political_group,7
+Africa,Guinea,protestors_generic,53
+Africa,Guinea,soldiers_veterans,5
+Africa,Guinea,students_youth,18
+Africa,Guinea,women,4
+Africa,Guinea,workers_unions,6
+Africa,Guinea-Bissau,political_group,6
+Africa,Guinea-Bissau,protestors_generic,13
+Africa,Guinea-Bissau,soldiers_veterans,3
+Africa,Guinea-Bissau,students_youth,5
+Africa,Guinea-Bissau,workers_unions,4
+Africa,Ivory Coast,civil_human_rights,1
+Africa,Ivory Coast,locals_residents,7
+Africa,Ivory Coast,pensioners_retirees,2
+Africa,Ivory Coast,political_group,4
+Africa,Ivory Coast,protestors_generic,44
+Africa,Ivory Coast,soldiers_veterans,14
+Africa,Ivory Coast,students_youth,28
+Africa,Ivory Coast,women,2
+Africa,Ivory Coast,workers_unions,11
+Africa,Kenya,civil_human_rights,6
+Africa,Kenya,ethnic_group,3
+Africa,Kenya,locals_residents,75
+Africa,Kenya,political_group,30
+Africa,Kenya,protestors_generic,58
+Africa,Kenya,religious_group,6
+Africa,Kenya,students_youth,75
+Africa,Kenya,women,15
+Africa,Kenya,workers_unions,82
+Africa,Lesotho,civil_human_rights,1
+Africa,Lesotho,locals_residents,1
+Africa,Lesotho,political_group,5
+Africa,Lesotho,protestors_generic,6
+Africa,Lesotho,soldiers_veterans,1
+Africa,Lesotho,students_youth,6
+Africa,Lesotho,women,2
+Africa,Lesotho,workers_unions,11
+Africa,Liberia,locals_residents,6
+Africa,Liberia,pensioners_retirees,1
+Africa,Liberia,political_group,3
+Africa,Liberia,protestors_generic,10
+Africa,Liberia,religious_group,2
+Africa,Liberia,soldiers_veterans,10
+Africa,Liberia,students_youth,28
+Africa,Liberia,women,2
+Africa,Liberia,workers_unions,8
+Africa,Madagascar,ethnic_group,1
+Africa,Madagascar,locals_residents,52
+Africa,Madagascar,political_group,8
+Africa,Madagascar,protestors_generic,43
+Africa,Madagascar,students_youth,3
+Africa,Madagascar,workers_unions,4
+Africa,Malawi,civil_human_rights,2
+Africa,Malawi,locals_residents,5
+Africa,Malawi,political_group,13
+Africa,Malawi,protestors_generic,17
+Africa,Malawi,religious_group,3
+Africa,Malawi,students_youth,14
+Africa,Malawi,workers_unions,11
+Africa,Mali,locals_residents,8
+Africa,Mali,pensioners_retirees,1
+Africa,Mali,political_group,7
+Africa,Mali,protestors_generic,19
+Africa,Mali,religious_group,1
+Africa,Mali,soldiers_veterans,1
+Africa,Mali,students_youth,11
+Africa,Mali,women,2
+Africa,Mali,workers_unions,3
+Africa,Mauritania,ethnic_group,1
+Africa,Mauritania,locals_residents,4
+Africa,Mauritania,political_group,19
+Africa,Mauritania,prisoners,1
+Africa,Mauritania,protestors_generic,37
+Africa,Mauritania,students_youth,12
+Africa,Mauritania,women,3
+Africa,Mauritania,workers_unions,5
+Africa,Mauritius,ethnic_group,2
+Africa,Mauritius,locals_residents,1
+Africa,Mauritius,pensioners_retirees,1
+Africa,Mauritius,political_group,2
+Africa,Mauritius,protestors_generic,1
+Africa,Mauritius,religious_group,1
+Africa,Mauritius,workers_unions,5
+Africa,Mozambique,locals_residents,8
+Africa,Mozambique,pensioners_retirees,1
+Africa,Mozambique,political_group,5
+Africa,Mozambique,prisoners,1
+Africa,Mozambique,protestors_generic,20
+Africa,Mozambique,soldiers_veterans,20
+Africa,Mozambique,students_youth,3
+Africa,Mozambique,women,3
+Africa,Mozambique,workers_unions,14
+Africa,Namibia,civil_human_rights,2
+Africa,Namibia,ethnic_group,3
+Africa,Namibia,locals_residents,76
+Africa,Namibia,pensioners_retirees,4
+Africa,Namibia,political_group,16
+Africa,Namibia,prisoners,2
+Africa,Namibia,protestors_generic,14
+Africa,Namibia,religious_group,1
+Africa,Namibia,soldiers_veterans,4
+Africa,Namibia,students_youth,36
+Africa,Namibia,women,11
+Africa,Namibia,workers_unions,56
+Africa,Niger,civil_human_rights,2
+Africa,Niger,ethnic_group,1
+Africa,Niger,locals_residents,6
+Africa,Niger,pensioners_retirees,1
+Africa,Niger,political_group,10
+Africa,Niger,prisoners,2
+Africa,Niger,protestors_generic,29
+Africa,Niger,religious_group,2
+Africa,Niger,soldiers_veterans,4
+Africa,Niger,students_youth,40
+Africa,Niger,women,3
+Africa,Niger,workers_unions,6
+Africa,Nigeria,civil_human_rights,2
+Africa,Nigeria,ethnic_group,17
+Africa,Nigeria,locals_residents,11
+Africa,Nigeria,pensioners_retirees,7
+Africa,Nigeria,political_group,13
+Africa,Nigeria,protestors_generic,29
+Africa,Nigeria,religious_group,5
+Africa,Nigeria,soldiers_veterans,5
+Africa,Nigeria,students_youth,32
+Africa,Nigeria,women,11
+Africa,Nigeria,workers_unions,33
+Africa,Rwanda,locals_residents,1
+Africa,Rwanda,political_group,2
+Africa,Rwanda,protestors_generic,2
+Africa,Rwanda,students_youth,4
+Africa,Rwanda,women,1
+Africa,Senegal,locals_residents,5
+Africa,Senegal,protestors_generic,27
+Africa,Senegal,religious_group,1
+Africa,Senegal,students_youth,6
+Africa,Senegal,women,1
+Africa,Senegal,workers_unions,5
+Africa,Sierra Leone,locals_residents,3
+Africa,Sierra Leone,pensioners_retirees,1
+Africa,Sierra Leone,political_group,2
+Africa,Sierra Leone,protestors_generic,2
+Africa,Sierra Leone,religious_group,1
+Africa,Sierra Leone,soldiers_veterans,1
+Africa,Sierra Leone,students_youth,12
+Africa,Sierra Leone,victims_families,1
+Africa,Sierra Leone,women,6
+Africa,Sierra Leone,workers_unions,5
+Africa,Somalia,locals_residents,2
+Africa,Somalia,pensioners_retirees,1
+Africa,Somalia,political_group,1
+Africa,Somalia,protestors_generic,9
+Africa,Somalia,soldiers_veterans,1
+Africa,Somalia,students_youth,2
+Africa,Somalia,women,1
+Africa,Somalia,workers_unions,5
+Africa,South Africa,ethnic_group,1
+Africa,South Africa,locals_residents,35
+Africa,South Africa,pensioners_retirees,1
+Africa,South Africa,political_group,22
+Africa,South Africa,prisoners,4
+Africa,South Africa,protestors_generic,47
+Africa,South Africa,religious_group,2
+Africa,South Africa,soldiers_veterans,2
+Africa,South Africa,students_youth,24
+Africa,South Africa,victims_families,1
+Africa,South Africa,women,2
+Africa,South Africa,workers_unions,35
+Africa,South Sudan,protestors_generic,1
+Africa,Swaziland,locals_residents,2
+Africa,Swaziland,political_group,20
+Africa,Swaziland,protestors_generic,6
+Africa,Swaziland,religious_group,2
+Africa,Swaziland,students_youth,17
+Africa,Swaziland,women,6
+Africa,Swaziland,workers_unions,44
+Africa,Tanzania,locals_residents,4
+Africa,Tanzania,political_group,1
+Africa,Tanzania,protestors_generic,14
+Africa,Tanzania,religious_group,2
+Africa,Tanzania,students_youth,5
+Africa,Tanzania,women,1
+Africa,Tanzania,workers_unions,10
+Africa,Togo,locals_residents,6
+Africa,Togo,political_group,10
+Africa,Togo,protestors_generic,48
+Africa,Togo,students_youth,16
+Africa,Togo,women,2
+Africa,Togo,workers_unions,12
+Africa,Uganda,locals_residents,5
+Africa,Uganda,political_group,9
+Africa,Uganda,prisoners,2
+Africa,Uganda,protestors_generic,18
+Africa,Uganda,religious_group,4
+Africa,Uganda,soldiers_veterans,3
+Africa,Uganda,students_youth,13
+Africa,Uganda,women,2
+Africa,Uganda,workers_unions,8
+Africa,Zambia,locals_residents,5
+Africa,Zambia,political_group,14
+Africa,Zambia,protestors_generic,10
+Africa,Zambia,students_youth,28
+Africa,Zambia,women,1
+Africa,Zambia,workers_unions,37
+Africa,Zimbabwe,civil_human_rights,1
+Africa,Zimbabwe,locals_residents,16
+Africa,Zimbabwe,political_group,18
+Africa,Zimbabwe,protestors_generic,15
+Africa,Zimbabwe,religious_group,2
+Africa,Zimbabwe,soldiers_veterans,3
+Africa,Zimbabwe,students_youth,26
+Africa,Zimbabwe,women,8
+Africa,Zimbabwe,workers_unions,26
+Asia,Afghanistan,civil_human_rights,3
+Asia,Afghanistan,ethnic_group,6
+Asia,Afghanistan,locals_residents,4
+Asia,Afghanistan,political_group,5
+Asia,Afghanistan,protestors_generic,15
+Asia,Afghanistan,students_youth,4
+Asia,Afghanistan,women,2
+Asia,Bangladesh,civil_human_rights,2
+Asia,Bangladesh,ethnic_group,2
+Asia,Bangladesh,locals_residents,18
+Asia,Bangladesh,pensioners_retirees,1
+Asia,Bangladesh,political_group,133
+Asia,Bangladesh,protestors_generic,72
+Asia,Bangladesh,religious_group,7
+Asia,Bangladesh,students_youth,55
+Asia,Bangladesh,women,5
+Asia,Bangladesh,workers_unions,37
+Asia,Cambodia,locals_residents,5
+Asia,Cambodia,political_group,7
+Asia,Cambodia,protestors_generic,17
+Asia,Cambodia,religious_group,2
+Asia,Cambodia,students_youth,5
+Asia,Cambodia,workers_unions,17
+Asia,China,civil_human_rights,2
+Asia,China,ethnic_group,10
+Asia,China,locals_residents,53
+Asia,China,pensioners_retirees,1
+Asia,China,political_group,108
+Asia,China,prisoners,1
+Asia,China,protestors_generic,17
+Asia,China,religious_group,30
+Asia,China,soldiers_veterans,1
+Asia,China,students_youth,33
+Asia,China,victims_families,1
+Asia,China,workers_unions,61
+Asia,India,civil_human_rights,3
+Asia,India,ethnic_group,16
+Asia,India,locals_residents,34
+Asia,India,political_group,44
+Asia,India,protestors_generic,33
+Asia,India,religious_group,28
+Asia,India,students_youth,29
+Asia,India,victims_families,4
+Asia,India,women,8
+Asia,India,workers_unions,28
+Asia,Indonesia,civil_human_rights,2
+Asia,Indonesia,ethnic_group,2
+Asia,Indonesia,locals_residents,13
+Asia,Indonesia,political_group,25
+Asia,Indonesia,prisoners,1
+Asia,Indonesia,protestors_generic,12
+Asia,Indonesia,religious_group,12
+Asia,Indonesia,soldiers_veterans,4
+Asia,Indonesia,students_youth,49
+Asia,Indonesia,workers_unions,33
+Asia,Japan,civil_human_rights,2
+Asia,Japan,locals_residents,7
+Asia,Japan,pensioners_retirees,1
+Asia,Japan,political_group,10
+Asia,Japan,protestors_generic,15
+Asia,Japan,soldiers_veterans,4
+Asia,Japan,students_youth,4
+Asia,Japan,workers_unions,16
+Asia,Kazakhstan,civil_human_rights,4
+Asia,Kazakhstan,locals_residents,12
+Asia,Kazakhstan,pensioners_retirees,3
+Asia,Kazakhstan,political_group,10
+Asia,Kazakhstan,protestors_generic,12
+Asia,Kazakhstan,soldiers_veterans,1
+Asia,Kazakhstan,students_youth,1
+Asia,Kazakhstan,women,1
+Asia,Kazakhstan,workers_unions,44
+Asia,Kyrgyzstan,civil_human_rights,2
+Asia,Kyrgyzstan,ethnic_group,3
+Asia,Kyrgyzstan,locals_residents,26
+Asia,Kyrgyzstan,pensioners_retirees,2
+Asia,Kyrgyzstan,political_group,34
+Asia,Kyrgyzstan,prisoners,4
+Asia,Kyrgyzstan,protestors_generic,65
+Asia,Kyrgyzstan,religious_group,2
+Asia,Kyrgyzstan,students_youth,9
+Asia,Kyrgyzstan,victims_families,1
+Asia,Kyrgyzstan,women,1
+Asia,Kyrgyzstan,workers_unions,13
+Asia,Laos,political_group,1
+Asia,Laos,students_youth,1
+Asia,Malaysia,civil_human_rights,6
+Asia,Malaysia,locals_residents,20
+Asia,Malaysia,pensioners_retirees,2
+Asia,Malaysia,political_group,30
+Asia,Malaysia,protestors_generic,47
+Asia,Malaysia,religious_group,6
+Asia,Malaysia,students_youth,12
+Asia,Malaysia,women,1
+Asia,Malaysia,workers_unions,24
+Asia,Mongolia,ethnic_group,3
+Asia,Mongolia,locals_residents,7
+Asia,Mongolia,pensioners_retirees,1
+Asia,Mongolia,political_group,16
+Asia,Mongolia,protestors_generic,8
+Asia,Mongolia,soldiers_veterans,1
+Asia,Mongolia,students_youth,2
+Asia,Mongolia,workers_unions,12
+Asia,Myanmar,locals_residents,4
+Asia,Myanmar,political_group,14
+Asia,Myanmar,prisoners,1
+Asia,Myanmar,protestors_generic,19
+Asia,Myanmar,religious_group,17
+Asia,Myanmar,soldiers_veterans,1
+Asia,Myanmar,students_youth,14
+Asia,Myanmar,women,1
+Asia,Myanmar,workers_unions,9
+Asia,Nepal,civil_human_rights,3
+Asia,Nepal,ethnic_group,12
+Asia,Nepal,locals_residents,18
+Asia,Nepal,pensioners_retirees,2
+Asia,Nepal,political_group,79
+Asia,Nepal,prisoners,1
+Asia,Nepal,protestors_generic,24
+Asia,Nepal,religious_group,6
+Asia,Nepal,soldiers_veterans,3
+Asia,Nepal,students_youth,26
+Asia,Nepal,victims_families,2
+Asia,Nepal,women,4
+Asia,Nepal,workers_unions,26
+Asia,North Korea,locals_residents,1
+Asia,North Korea,political_group,2
+Asia,North Korea,soldiers_veterans,1
+Asia,North Korea,students_youth,1
+Asia,North Korea,workers_unions,3
+Asia,Pakistan,civil_human_rights,3
+Asia,Pakistan,ethnic_group,10
+Asia,Pakistan,locals_residents,8
+Asia,Pakistan,pensioners_retirees,2
+Asia,Pakistan,political_group,31
+Asia,Pakistan,protestors_generic,54
+Asia,Pakistan,religious_group,39
+Asia,Pakistan,soldiers_veterans,1
+Asia,Pakistan,students_youth,10
+Asia,Pakistan,victims_families,1
+Asia,Pakistan,women,5
+Asia,Pakistan,workers_unions,13
+Asia,Philippines,ethnic_group,1
+Asia,Philippines,locals_residents,6
+Asia,Philippines,political_group,7
+Asia,Philippines,protestors_generic,22
+Asia,Philippines,religious_group,8
+Asia,Philippines,soldiers_veterans,1
+Asia,Philippines,students_youth,7
+Asia,Philippines,women,1
+Asia,Philippines,workers_unions,11
+Asia,Singapore,locals_residents,1
+Asia,Singapore,protestors_generic,10
+Asia,Singapore,students_youth,1
+Asia,Singapore,workers_unions,3
+Asia,South Korea,locals_residents,11
+Asia,South Korea,political_group,27
+Asia,South Korea,prisoners,3
+Asia,South Korea,protestors_generic,23
+Asia,South Korea,religious_group,3
+Asia,South Korea,soldiers_veterans,1
+Asia,South Korea,students_youth,119
+Asia,South Korea,victims_families,4
+Asia,South Korea,women,2
+Asia,South Korea,workers_unions,150
+Asia,Sri Lanka,civil_human_rights,2
+Asia,Sri Lanka,ethnic_group,1
+Asia,Sri Lanka,locals_residents,10
+Asia,Sri Lanka,pensioners_retirees,1
+Asia,Sri Lanka,political_group,9
+Asia,Sri Lanka,protestors_generic,15
+Asia,Sri Lanka,religious_group,9
+Asia,Sri Lanka,students_youth,10
+Asia,Sri Lanka,women,1
+Asia,Sri Lanka,workers_unions,16
+Asia,Taiwan,civil_human_rights,2
+Asia,Taiwan,ethnic_group,5
+Asia,Taiwan,locals_residents,24
+Asia,Taiwan,political_group,35
+Asia,Taiwan,protestors_generic,28
+Asia,Taiwan,religious_group,2
+Asia,Taiwan,soldiers_veterans,2
+Asia,Taiwan,students_youth,15
+Asia,Taiwan,victims_families,2
+Asia,Taiwan,women,3
+Asia,Taiwan,workers_unions,25
+Asia,Tajikistan,ethnic_group,1
+Asia,Tajikistan,locals_residents,10
+Asia,Tajikistan,political_group,6
+Asia,Tajikistan,protestors_generic,6
+Asia,Tajikistan,soldiers_veterans,1
+Asia,Tajikistan,students_youth,3
+Asia,Tajikistan,women,1
+Asia,Tajikistan,workers_unions,4
+Asia,Thailand,civil_human_rights,2
+Asia,Thailand,locals_residents,29
+Asia,Thailand,pensioners_retirees,2
+Asia,Thailand,political_group,73
+Asia,Thailand,protestors_generic,46
+Asia,Thailand,religious_group,10
+Asia,Thailand,soldiers_veterans,1
+Asia,Thailand,students_youth,20
+Asia,Thailand,workers_unions,69
+Asia,Timor Leste,locals_residents,3
+Asia,Timor Leste,pensioners_retirees,1
+Asia,Timor Leste,political_group,4
+Asia,Timor Leste,religious_group,1
+Asia,Timor Leste,soldiers_veterans,1
+Asia,Timor Leste,students_youth,2
+Asia,Turkmenistan,locals_residents,1
+Asia,Turkmenistan,political_group,1
+Asia,Turkmenistan,workers_unions,2
+Asia,Uzbekistan,civil_human_rights,1
+Asia,Uzbekistan,locals_residents,9
+Asia,Uzbekistan,political_group,2
+Asia,Uzbekistan,protestors_generic,6
+Asia,Uzbekistan,religious_group,1
+Asia,Uzbekistan,students_youth,2
+Asia,Uzbekistan,women,3
+Asia,Uzbekistan,workers_unions,11
+Asia,Vietnam,ethnic_group,3
+Asia,Vietnam,locals_residents,4
+Asia,Vietnam,protestors_generic,1
+Asia,Vietnam,religious_group,4
+Asia,Vietnam,workers_unions,6
+Central America,Costa Rica,ethnic_group,1
+Central America,Costa Rica,locals_residents,3
+Central America,Costa Rica,political_group,3
+Central America,Costa Rica,protestors_generic,4
+Central America,Costa Rica,religious_group,1
+Central America,Costa Rica,students_youth,2
+Central America,Costa Rica,workers_unions,23
+Central America,El Salvador,civil_human_rights,1
+Central America,El Salvador,locals_residents,2
+Central America,El Salvador,political_group,3
+Central America,El Salvador,prisoners,1
+Central America,El Salvador,protestors_generic,4
+Central America,El Salvador,religious_group,2
+Central America,El Salvador,soldiers_veterans,15
+Central America,El Salvador,students_youth,5
+Central America,El Salvador,women,1
+Central America,El Salvador,workers_unions,14
+Central America,Guatemala,civil_human_rights,5
+Central America,Guatemala,ethnic_group,9
+Central America,Guatemala,locals_residents,10
+Central America,Guatemala,pensioners_retirees,2
+Central America,Guatemala,political_group,8
+Central America,Guatemala,protestors_generic,41
+Central America,Guatemala,soldiers_veterans,5
+Central America,Guatemala,students_youth,7
+Central America,Guatemala,women,1
+Central America,Guatemala,workers_unions,21
+Central America,Honduras,civil_human_rights,1
+Central America,Honduras,ethnic_group,9
+Central America,Honduras,locals_residents,9
+Central America,Honduras,political_group,16
+Central America,Honduras,prisoners,3
+Central America,Honduras,protestors_generic,23
+Central America,Honduras,religious_group,1
+Central America,Honduras,soldiers_veterans,3
+Central America,Honduras,students_youth,20
+Central America,Honduras,women,1
+Central America,Honduras,workers_unions,27
+Central America,Nicaragua,ethnic_group,1
+Central America,Nicaragua,locals_residents,7
+Central America,Nicaragua,pensioners_retirees,2
+Central America,Nicaragua,political_group,9
+Central America,Nicaragua,protestors_generic,22
+Central America,Nicaragua,soldiers_veterans,4
+Central America,Nicaragua,students_youth,21
+Central America,Nicaragua,workers_unions,22
+Central America,Panama,ethnic_group,8
+Central America,Panama,locals_residents,5
+Central America,Panama,pensioners_retirees,1
+Central America,Panama,political_group,5
+Central America,Panama,protestors_generic,2
+Central America,Panama,soldiers_veterans,2
+Central America,Panama,students_youth,10
+Central America,Panama,victims_families,2
+Central America,Panama,workers_unions,14
+Europe,Albania,ethnic_group,1
+Europe,Albania,locals_residents,9
+Europe,Albania,political_group,8
+Europe,Albania,prisoners,1
+Europe,Albania,protestors_generic,40
+Europe,Albania,students_youth,14
+Europe,Albania,workers_unions,5
+Europe,Armenia,civil_human_rights,1
+Europe,Armenia,locals_residents,5
+Europe,Armenia,pensioners_retirees,2
+Europe,Armenia,political_group,25
+Europe,Armenia,protestors_generic,48
+Europe,Armenia,soldiers_veterans,1
+Europe,Armenia,women,1
+Europe,Armenia,workers_unions,21
+Europe,Austria,locals_residents,1
+Europe,Austria,protestors_generic,11
+Europe,Austria,workers_unions,1
+Europe,Azerbaijan,ethnic_group,8
+Europe,Azerbaijan,locals_residents,26
+Europe,Azerbaijan,political_group,28
+Europe,Azerbaijan,protestors_generic,40
+Europe,Azerbaijan,soldiers_veterans,5
+Europe,Azerbaijan,students_youth,7
+Europe,Azerbaijan,workers_unions,10
+Europe,Belarus,civil_human_rights,1
+Europe,Belarus,ethnic_group,5
+Europe,Belarus,locals_residents,2
+Europe,Belarus,political_group,9
+Europe,Belarus,protestors_generic,47
+Europe,Belarus,students_youth,2
+Europe,Belarus,women,1
+Europe,Belarus,workers_unions,4
+Europe,Belgium,locals_residents,2
+Europe,Belgium,political_group,1
+Europe,Belgium,protestors_generic,23
+Europe,Belgium,workers_unions,15
+Europe,Bosnia,locals_residents,4
+Europe,Bosnia,political_group,4
+Europe,Bosnia,protestors_generic,20
+Europe,Bosnia,religious_group,2
+Europe,Bosnia,soldiers_veterans,3
+Europe,Bosnia,women,2
+Europe,Bosnia,workers_unions,5
+Europe,Bulgaria,ethnic_group,1
+Europe,Bulgaria,locals_residents,2
+Europe,Bulgaria,pensioners_retirees,1
+Europe,Bulgaria,political_group,22
+Europe,Bulgaria,protestors_generic,38
+Europe,Bulgaria,religious_group,2
+Europe,Bulgaria,students_youth,21
+Europe,Bulgaria,women,1
+Europe,Bulgaria,workers_unions,37
+Europe,Croatia,political_group,1
+Europe,Croatia,protestors_generic,10
+Europe,Croatia,religious_group,3
+Europe,Croatia,soldiers_veterans,2
+Europe,Croatia,students_youth,1
+Europe,Croatia,women,1
+Europe,Croatia,workers_unions,8
+Europe,Cyprus,civil_human_rights,1
+Europe,Cyprus,ethnic_group,4
+Europe,Cyprus,locals_residents,16
+Europe,Cyprus,political_group,7
+Europe,Cyprus,protestors_generic,16
+Europe,Cyprus,religious_group,1
+Europe,Cyprus,soldiers_veterans,4
+Europe,Cyprus,students_youth,23
+Europe,Cyprus,workers_unions,58
+Europe,Czech Republic,civil_human_rights,1
+Europe,Czech Republic,locals_residents,1
+Europe,Czech Republic,political_group,3
+Europe,Czech Republic,protestors_generic,15
+Europe,Czech Republic,students_youth,4
+Europe,Czech Republic,workers_unions,8
+Europe,Czechoslovakia,political_group,2
+Europe,Czechoslovakia,prisoners,1
+Europe,Czechoslovakia,protestors_generic,1
+Europe,Denmark,political_group,1
+Europe,Denmark,protestors_generic,5
+Europe,Denmark,students_youth,3
+Europe,Denmark,women,1
+Europe,Denmark,workers_unions,1
+Europe,Estonia,ethnic_group,3
+Europe,Estonia,locals_residents,4
+Europe,Estonia,pensioners_retirees,2
+Europe,Estonia,political_group,9
+Europe,Estonia,prisoners,4
+Europe,Estonia,protestors_generic,1
+Europe,Estonia,religious_group,2
+Europe,Estonia,students_youth,5
+Europe,Estonia,workers_unions,19
+Europe,Finland,locals_residents,1
+Europe,Finland,political_group,1
+Europe,Finland,protestors_generic,5
+Europe,Finland,workers_unions,5
+Europe,France,civil_human_rights,5
+Europe,France,ethnic_group,3
+Europe,France,locals_residents,30
+Europe,France,pensioners_retirees,2
+Europe,France,political_group,42
+Europe,France,prisoners,1
+Europe,France,protestors_generic,81
+Europe,France,religious_group,12
+Europe,France,soldiers_veterans,4
+Europe,France,students_youth,100
+Europe,France,victims_families,1
+Europe,France,women,6
+Europe,France,workers_unions,260
+Europe,Georgia,ethnic_group,1
+Europe,Georgia,locals_residents,12
+Europe,Georgia,political_group,11
+Europe,Georgia,protestors_generic,30
+Europe,Georgia,students_youth,3
+Europe,Georgia,workers_unions,2
+Europe,Germany,civil_human_rights,1
+Europe,Germany,ethnic_group,5
+Europe,Germany,locals_residents,15
+Europe,Germany,pensioners_retirees,1
+Europe,Germany,political_group,136
+Europe,Germany,protestors_generic,68
+Europe,Germany,religious_group,5
+Europe,Germany,soldiers_veterans,1
+Europe,Germany,students_youth,20
+Europe,Germany,women,5
+Europe,Germany,workers_unions,107
+Europe,Germany East,locals_residents,2
+Europe,Germany East,political_group,2
+Europe,Germany East,prisoners,1
+Europe,Germany East,protestors_generic,2
+Europe,Germany East,workers_unions,4
+Europe,Germany West,political_group,1
+Europe,Germany West,protestors_generic,1
+Europe,Greece,civil_human_rights,2
+Europe,Greece,ethnic_group,1
+Europe,Greece,locals_residents,11
+Europe,Greece,pensioners_retirees,9
+Europe,Greece,political_group,20
+Europe,Greece,prisoners,2
+Europe,Greece,protestors_generic,75
+Europe,Greece,religious_group,3
+Europe,Greece,students_youth,83
+Europe,Greece,women,2
+Europe,Greece,workers_unions,107
+Europe,Hungary,ethnic_group,1
+Europe,Hungary,locals_residents,2
+Europe,Hungary,political_group,7
+Europe,Hungary,protestors_generic,46
+Europe,Hungary,soldiers_veterans,1
+Europe,Hungary,students_youth,7
+Europe,Hungary,workers_unions,8
+Europe,Ireland,civil_human_rights,1
+Europe,Ireland,ethnic_group,3
+Europe,Ireland,locals_residents,56
+Europe,Ireland,pensioners_retirees,2
+Europe,Ireland,political_group,28
+Europe,Ireland,protestors_generic,136
+Europe,Ireland,religious_group,5
+Europe,Ireland,soldiers_veterans,7
+Europe,Ireland,students_youth,52
+Europe,Ireland,victims_families,1
+Europe,Ireland,women,7
+Europe,Ireland,workers_unions,133
+Europe,Italy,civil_human_rights,1
+Europe,Italy,locals_residents,22
+Europe,Italy,pensioners_retirees,1
+Europe,Italy,political_group,23
+Europe,Italy,prisoners,2
+Europe,Italy,protestors_generic,45
+Europe,Italy,religious_group,3
+Europe,Italy,students_youth,13
+Europe,Italy,victims_families,1
+Europe,Italy,women,4
+Europe,Italy,workers_unions,51
+Europe,Kosovo,ethnic_group,5
+Europe,Kosovo,locals_residents,1
+Europe,Kosovo,political_group,2
+Europe,Kosovo,protestors_generic,12
+Europe,Latvia,civil_human_rights,1
+Europe,Latvia,ethnic_group,7
+Europe,Latvia,locals_residents,7
+Europe,Latvia,pensioners_retirees,2
+Europe,Latvia,political_group,14
+Europe,Latvia,protestors_generic,4
+Europe,Latvia,soldiers_veterans,3
+Europe,Latvia,students_youth,17
+Europe,Latvia,workers_unions,30
+Europe,Lithuania,locals_residents,3
+Europe,Lithuania,political_group,3
+Europe,Lithuania,protestors_generic,7
+Europe,Lithuania,students_youth,3
+Europe,Lithuania,workers_unions,19
+Europe,Luxembourg,political_group,1
+Europe,Luxembourg,workers_unions,2
+Europe,Macedonia,ethnic_group,14
+Europe,Macedonia,locals_residents,3
+Europe,Macedonia,political_group,3
+Europe,Macedonia,prisoners,1
+Europe,Macedonia,protestors_generic,43
+Europe,Macedonia,students_youth,7
+Europe,Macedonia,workers_unions,14
+Europe,Moldova,ethnic_group,4
+Europe,Moldova,locals_residents,1
+Europe,Moldova,pensioners_retirees,1
+Europe,Moldova,political_group,27
+Europe,Moldova,protestors_generic,34
+Europe,Moldova,soldiers_veterans,1
+Europe,Moldova,students_youth,24
+Europe,Moldova,women,1
+Europe,Moldova,workers_unions,15
+Europe,Montenegro,protestors_generic,8
+Europe,Montenegro,religious_group,3
+Europe,Montenegro,students_youth,2
+Europe,Montenegro,workers_unions,2
+Europe,Netherlands,locals_residents,3
+Europe,Netherlands,political_group,2
+Europe,Netherlands,protestors_generic,4
+Europe,Netherlands,soldiers_veterans,1
+Europe,Netherlands,workers_unions,3
+Europe,Norway,protestors_generic,3
+Europe,Norway,workers_unions,3
+Europe,Poland,civil_human_rights,1
+Europe,Poland,locals_residents,4
+Europe,Poland,political_group,10
+Europe,Poland,protestors_generic,30
+Europe,Poland,religious_group,1
+Europe,Poland,students_youth,3
+Europe,Poland,women,3
+Europe,Poland,workers_unions,70
+Europe,Portugal,civil_human_rights,1
+Europe,Portugal,locals_residents,5
+Europe,Portugal,political_group,4
+Europe,Portugal,prisoners,1
+Europe,Portugal,protestors_generic,7
+Europe,Portugal,religious_group,1
+Europe,Portugal,students_youth,2
+Europe,Portugal,workers_unions,12
+Europe,Romania,ethnic_group,4
+Europe,Romania,locals_residents,4
+Europe,Romania,pensioners_retirees,1
+Europe,Romania,political_group,21
+Europe,Romania,protestors_generic,102
+Europe,Romania,soldiers_veterans,2
+Europe,Romania,students_youth,29
+Europe,Romania,workers_unions,56
+Europe,Russia,ethnic_group,3
+Europe,Russia,locals_residents,26
+Europe,Russia,pensioners_retirees,6
+Europe,Russia,political_group,43
+Europe,Russia,protestors_generic,71
+Europe,Russia,religious_group,2
+Europe,Russia,soldiers_veterans,5
+Europe,Russia,students_youth,6
+Europe,Russia,women,1
+Europe,Russia,workers_unions,41
+Europe,Serbia,political_group,3
+Europe,Serbia,protestors_generic,23
+Europe,Serbia,religious_group,1
+Europe,Serbia,students_youth,2
+Europe,Serbia,workers_unions,2
+Europe,Serbia and Montenegro,political_group,1
+Europe,Serbia and Montenegro,workers_unions,1
+Europe,Slovak Republic,ethnic_group,1
+Europe,Slovak Republic,locals_residents,7
+Europe,Slovak Republic,political_group,3
+Europe,Slovak Republic,protestors_generic,19
+Europe,Slovak Republic,students_youth,4
+Europe,Slovak Republic,workers_unions,10
+Europe,Slovenia,political_group,2
+Europe,Slovenia,protestors_generic,14
+Europe,Slovenia,students_youth,1
+Europe,Slovenia,workers_unions,4
+Europe,Spain,civil_human_rights,4
+Europe,Spain,locals_residents,3
+Europe,Spain,political_group,58
+Europe,Spain,protestors_generic,21
+Europe,Spain,religious_group,1
+Europe,Spain,soldiers_veterans,2
+Europe,Spain,students_youth,14
+Europe,Spain,women,6
+Europe,Spain,workers_unions,58
+Europe,Sweden,locals_residents,1
+Europe,Sweden,political_group,5
+Europe,Sweden,protestors_generic,3
+Europe,Sweden,students_youth,5
+Europe,Sweden,workers_unions,2
+Europe,Switzerland,locals_residents,1
+Europe,Switzerland,protestors_generic,3
+Europe,Switzerland,religious_group,1
+Europe,Switzerland,students_youth,1
+Europe,Switzerland,women,2
+Europe,Switzerland,workers_unions,1
+Europe,USSR,ethnic_group,26
+Europe,USSR,locals_residents,7
+Europe,USSR,political_group,4
+Europe,USSR,protestors_generic,5
+Europe,USSR,students_youth,6
+Europe,USSR,victims_families,1
+Europe,USSR,workers_unions,11
+Europe,Ukraine,ethnic_group,7
+Europe,Ukraine,locals_residents,11
+Europe,Ukraine,political_group,20
+Europe,Ukraine,protestors_generic,82
+Europe,Ukraine,religious_group,1
+Europe,Ukraine,soldiers_veterans,2
+Europe,Ukraine,students_youth,4
+Europe,Ukraine,women,3
+Europe,Ukraine,workers_unions,18
+Europe,United Kingdom,civil_human_rights,5
+Europe,United Kingdom,ethnic_group,5
+Europe,United Kingdom,locals_residents,45
+Europe,United Kingdom,pensioners_retirees,7
+Europe,United Kingdom,political_group,62
+Europe,United Kingdom,prisoners,1
+Europe,United Kingdom,protestors_generic,217
+Europe,United Kingdom,religious_group,13
+Europe,United Kingdom,soldiers_veterans,9
+Europe,United Kingdom,students_youth,59
+Europe,United Kingdom,women,6
+Europe,United Kingdom,workers_unions,148
+Europe,Yugoslavia,ethnic_group,27
+Europe,Yugoslavia,locals_residents,4
+Europe,Yugoslavia,pensioners_retirees,2
+Europe,Yugoslavia,political_group,11
+Europe,Yugoslavia,prisoners,1
+Europe,Yugoslavia,protestors_generic,59
+Europe,Yugoslavia,religious_group,2
+Europe,Yugoslavia,soldiers_veterans,4
+Europe,Yugoslavia,students_youth,17
+Europe,Yugoslavia,women,4
+Europe,Yugoslavia,workers_unions,6
+MENA,Algeria,locals_residents,4
+MENA,Algeria,political_group,44
+MENA,Algeria,protestors_generic,23
+MENA,Algeria,religious_group,7
+MENA,Algeria,soldiers_veterans,1
+MENA,Algeria,students_youth,21
+MENA,Algeria,victims_families,1
+MENA,Algeria,women,1
+MENA,Algeria,workers_unions,3
+MENA,Bahrain,civil_human_rights,1
+MENA,Bahrain,ethnic_group,11
+MENA,Bahrain,locals_residents,6
+MENA,Bahrain,political_group,10
+MENA,Bahrain,protestors_generic,7
+MENA,Bahrain,religious_group,1
+MENA,Bahrain,students_youth,4
+MENA,Bahrain,women,2
+MENA,Bahrain,workers_unions,3
+MENA,Egypt,locals_residents,11
+MENA,Egypt,political_group,15
+MENA,Egypt,protestors_generic,38
+MENA,Egypt,religious_group,21
+MENA,Egypt,soldiers_veterans,7
+MENA,Egypt,students_youth,17
+MENA,Egypt,women,4
+MENA,Egypt,workers_unions,13
+MENA,Iran,civil_human_rights,1
+MENA,Iran,ethnic_group,6
+MENA,Iran,locals_residents,7
+MENA,Iran,pensioners_retirees,2
+MENA,Iran,political_group,10
+MENA,Iran,prisoners,1
+MENA,Iran,protestors_generic,41
+MENA,Iran,religious_group,2
+MENA,Iran,students_youth,39
+MENA,Iran,women,6
+MENA,Iran,workers_unions,8
+MENA,Iraq,ethnic_group,54
+MENA,Iraq,locals_residents,5
+MENA,Iraq,political_group,4
+MENA,Iraq,prisoners,1
+MENA,Iraq,protestors_generic,40
+MENA,Iraq,religious_group,3
+MENA,Iraq,students_youth,10
+MENA,Iraq,women,3
+MENA,Iraq,workers_unions,6
+MENA,Jordan,locals_residents,6
+MENA,Jordan,political_group,12
+MENA,Jordan,protestors_generic,8
+MENA,Jordan,religious_group,4
+MENA,Jordan,soldiers_veterans,1
+MENA,Jordan,students_youth,3
+MENA,Jordan,workers_unions,11
+MENA,Kuwait,ethnic_group,1
+MENA,Kuwait,locals_residents,4
+MENA,Kuwait,pensioners_retirees,5
+MENA,Kuwait,political_group,9
+MENA,Kuwait,protestors_generic,11
+MENA,Kuwait,students_youth,3
+MENA,Kuwait,women,3
+MENA,Kuwait,workers_unions,5
+MENA,Lebanon,ethnic_group,1
+MENA,Lebanon,locals_residents,11
+MENA,Lebanon,political_group,22
+MENA,Lebanon,protestors_generic,72
+MENA,Lebanon,religious_group,6
+MENA,Lebanon,soldiers_veterans,1
+MENA,Lebanon,students_youth,7
+MENA,Lebanon,workers_unions,2
+MENA,Libya,locals_residents,2
+MENA,Libya,political_group,1
+MENA,Libya,protestors_generic,16
+MENA,Libya,soldiers_veterans,1
+MENA,Libya,women,1
+MENA,Libya,workers_unions,2
+MENA,Morocco,civil_human_rights,2
+MENA,Morocco,ethnic_group,1
+MENA,Morocco,locals_residents,4
+MENA,Morocco,political_group,3
+MENA,Morocco,protestors_generic,13
+MENA,Morocco,religious_group,2
+MENA,Morocco,students_youth,7
+MENA,Morocco,women,3
+MENA,Morocco,workers_unions,5
+MENA,Oman,locals_residents,2
+MENA,Oman,political_group,4
+MENA,Oman,protestors_generic,8
+MENA,Oman,students_youth,1
+MENA,Oman,workers_unions,11
+MENA,Qatar,protestors_generic,1
+MENA,Saudi Arabia,ethnic_group,1
+MENA,Saudi Arabia,locals_residents,5
+MENA,Saudi Arabia,political_group,6
+MENA,Saudi Arabia,protestors_generic,3
+MENA,Saudi Arabia,religious_group,1
+MENA,Saudi Arabia,students_youth,2
+MENA,Saudi Arabia,workers_unions,3
+MENA,Sudan,ethnic_group,1
+MENA,Sudan,locals_residents,19
+MENA,Sudan,political_group,6
+MENA,Sudan,protestors_generic,10
+MENA,Sudan,soldiers_veterans,3
+MENA,Sudan,students_youth,20
+MENA,Sudan,women,3
+MENA,Sudan,workers_unions,2
+MENA,Syria,ethnic_group,1
+MENA,Syria,locals_residents,6
+MENA,Syria,political_group,2
+MENA,Syria,protestors_generic,6
+MENA,Syria,religious_group,1
+MENA,Syria,students_youth,1
+MENA,Tunisia,locals_residents,2
+MENA,Tunisia,political_group,3
+MENA,Tunisia,protestors_generic,18
+MENA,Tunisia,religious_group,3
+MENA,Tunisia,students_youth,4
+MENA,Tunisia,women,2
+MENA,Tunisia,workers_unions,12
+MENA,Turkey,civil_human_rights,3
+MENA,Turkey,ethnic_group,23
+MENA,Turkey,locals_residents,5
+MENA,Turkey,political_group,6
+MENA,Turkey,protestors_generic,43
+MENA,Turkey,religious_group,7
+MENA,Turkey,soldiers_veterans,1
+MENA,Turkey,students_youth,2
+MENA,Turkey,women,3
+MENA,Turkey,workers_unions,34
+MENA,United Arab Emirate,workers_unions,3
+MENA,Yemen,civil_human_rights,1
+MENA,Yemen,locals_residents,22
+MENA,Yemen,political_group,51
+MENA,Yemen,prisoners,1
+MENA,Yemen,protestors_generic,41
+MENA,Yemen,religious_group,2
+MENA,Yemen,soldiers_veterans,12
+MENA,Yemen,students_youth,16
+MENA,Yemen,victims_families,1
+MENA,Yemen,women,3
+MENA,Yemen,workers_unions,7
+North America,Canada,civil_human_rights,2
+North America,Canada,ethnic_group,10
+North America,Canada,locals_residents,3
+North America,Canada,pensioners_retirees,1
+North America,Canada,political_group,8
+North America,Canada,protestors_generic,6
+North America,Canada,religious_group,1
+North America,Canada,students_youth,8
+North America,Canada,women,1
+North America,Canada,workers_unions,13
+North America,Cuba,political_group,1
+North America,Cuba,protestors_generic,5
+North America,Cuba,religious_group,1
+North America,Cuba,women,91
+North America,Cuba,workers_unions,1
+North America,Dominican Republic,locals_residents,10
+North America,Dominican Republic,political_group,29
+North America,Dominican Republic,prisoners,1
+North America,Dominican Republic,protestors_generic,6
+North America,Dominican Republic,soldiers_veterans,1
+North America,Dominican Republic,students_youth,9
+North America,Dominican Republic,women,1
+North America,Dominican Republic,workers_unions,14
+North America,Haiti,locals_residents,8
+North America,Haiti,political_group,10
+North America,Haiti,protestors_generic,74
+North America,Haiti,religious_group,3
+North America,Haiti,soldiers_veterans,5
+North America,Haiti,students_youth,13
+North America,Haiti,victims_families,2
+North America,Haiti,women,2
+North America,Haiti,workers_unions,6
+North America,Jamaica,locals_residents,7
+North America,Jamaica,pensioners_retirees,1
+North America,Jamaica,political_group,2
+North America,Jamaica,prisoners,1
+North America,Jamaica,protestors_generic,6
+North America,Jamaica,students_youth,2
+North America,Jamaica,workers_unions,9
+North America,Mexico,civil_human_rights,2
+North America,Mexico,ethnic_group,1
+North America,Mexico,locals_residents,26
+North America,Mexico,pensioners_retirees,2
+North America,Mexico,political_group,33
+North America,Mexico,protestors_generic,20
+North America,Mexico,religious_group,1
+North America,Mexico,soldiers_veterans,3
+North America,Mexico,students_youth,19
+North America,Mexico,victims_families,2
+North America,Mexico,women,11
+North America,Mexico,workers_unions,31
+Oceania,Papua New Guinea,locals_residents,2
+Oceania,Papua New Guinea,political_group,5
+Oceania,Papua New Guinea,prisoners,1
+Oceania,Papua New Guinea,protestors_generic,1
+Oceania,Papua New Guinea,soldiers_veterans,7
+Oceania,Papua New Guinea,students_youth,18
+Oceania,Papua New Guinea,workers_unions,4
+South America,Argentina,civil_human_rights,4
+South America,Argentina,ethnic_group,2
+South America,Argentina,locals_residents,12
+South America,Argentina,political_group,19
+South America,Argentina,prisoners,1
+South America,Argentina,protestors_generic,15
+South America,Argentina,religious_group,4
+South America,Argentina,soldiers_veterans,1
+South America,Argentina,students_youth,7
+South America,Argentina,women,2
+South America,Argentina,workers_unions,48
+South America,Bolivia,civil_human_rights,1
+South America,Bolivia,ethnic_group,8
+South America,Bolivia,locals_residents,9
+South America,Bolivia,pensioners_retirees,1
+South America,Bolivia,political_group,14
+South America,Bolivia,prisoners,3
+South America,Bolivia,protestors_generic,19
+South America,Bolivia,soldiers_veterans,5
+South America,Bolivia,students_youth,18
+South America,Bolivia,women,6
+South America,Bolivia,workers_unions,59
+South America,Brazil,civil_human_rights,1
+South America,Brazil,ethnic_group,11
+South America,Brazil,locals_residents,16
+South America,Brazil,political_group,29
+South America,Brazil,prisoners,7
+South America,Brazil,protestors_generic,30
+South America,Brazil,religious_group,1
+South America,Brazil,soldiers_veterans,3
+South America,Brazil,students_youth,23
+South America,Brazil,women,4
+South America,Brazil,workers_unions,99
+South America,Chile,civil_human_rights,2
+South America,Chile,ethnic_group,2
+South America,Chile,locals_residents,5
+South America,Chile,pensioners_retirees,1
+South America,Chile,political_group,22
+South America,Chile,prisoners,2
+South America,Chile,protestors_generic,7
+South America,Chile,soldiers_veterans,3
+South America,Chile,students_youth,71
+South America,Chile,women,6
+South America,Chile,workers_unions,50
+South America,Colombia,civil_human_rights,1
+South America,Colombia,ethnic_group,10
+South America,Colombia,locals_residents,14
+South America,Colombia,pensioners_retirees,1
+South America,Colombia,political_group,8
+South America,Colombia,prisoners,4
+South America,Colombia,protestors_generic,10
+South America,Colombia,religious_group,2
+South America,Colombia,students_youth,9
+South America,Colombia,women,2
+South America,Colombia,workers_unions,78
+South America,Ecuador,civil_human_rights,1
+South America,Ecuador,ethnic_group,40
+South America,Ecuador,locals_residents,11
+South America,Ecuador,political_group,10
+South America,Ecuador,prisoners,4
+South America,Ecuador,protestors_generic,12
+South America,Ecuador,soldiers_veterans,3
+South America,Ecuador,students_youth,33
+South America,Ecuador,women,2
+South America,Ecuador,workers_unions,44
+South America,Guyana,ethnic_group,1
+South America,Guyana,locals_residents,6
+South America,Guyana,political_group,6
+South America,Guyana,prisoners,1
+South America,Guyana,protestors_generic,9
+South America,Guyana,students_youth,2
+South America,Guyana,workers_unions,10
+South America,Paraguay,locals_residents,12
+South America,Paraguay,political_group,10
+South America,Paraguay,prisoners,1
+South America,Paraguay,protestors_generic,4
+South America,Paraguay,soldiers_veterans,1
+South America,Paraguay,students_youth,2
+South America,Paraguay,victims_families,1
+South America,Paraguay,women,1
+South America,Paraguay,workers_unions,34
+South America,Peru,ethnic_group,9
+South America,Peru,locals_residents,8
+South America,Peru,political_group,28
+South America,Peru,prisoners,8
+South America,Peru,protestors_generic,13
+South America,Peru,soldiers_veterans,2
+South America,Peru,students_youth,15
+South America,Peru,women,4
+South America,Peru,workers_unions,79
+South America,Suriname,locals_residents,5
+South America,Suriname,pensioners_retirees,2
+South America,Suriname,political_group,7
+South America,Suriname,protestors_generic,4
+South America,Suriname,soldiers_veterans,4
+South America,Suriname,students_youth,7
+South America,Suriname,workers_unions,22
+South America,Uruguay,civil_human_rights,3
+South America,Uruguay,locals_residents,1
+South America,Uruguay,political_group,2
+South America,Uruguay,prisoners,2
+South America,Uruguay,soldiers_veterans,1
+South America,Uruguay,students_youth,8
+South America,Uruguay,women,1
+South America,Uruguay,workers_unions,50
+South America,Venezuela,civil_human_rights,2
+South America,Venezuela,ethnic_group,6
+South America,Venezuela,locals_residents,18
+South America,Venezuela,political_group,24
+South America,Venezuela,prisoners,10
+South America,Venezuela,protestors_generic,82
+South America,Venezuela,students_youth,89
+South America,Venezuela,women,2
+South America,Venezuela,workers_unions,83
