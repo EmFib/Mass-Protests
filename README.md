@@ -1,4 +1,4 @@
-# **TALK THE TALK, WALK THE WALK**
+# **Mass Mobilization**
 
 ## Table of Contents
 
@@ -22,6 +22,7 @@
 #### *Why Do I Care?*
 
 
+
 #### *The Solution!*
 
 
@@ -29,6 +30,7 @@
 ## 2. Data Collection
 
 *See notebook: [01_Web_Scraping_&_Data_Collection](projects/project_3/code/01_Web_Scraping_&_Data_Collection.ipynb)*
+
 
 
 ## 3. Data Cleaning & Pre-Processing
@@ -39,13 +41,12 @@
 
 
 
-
-
-
 ## 5. Modeling
 
 
+
 #### *Model Benchmarking*
+
 
 
 #### *Tuning the Model*
@@ -56,6 +57,7 @@
 ## 6. Evaluation & Analysis
 
 
+
 ## 7. Conclusion & Recommendations
 
 
@@ -63,6 +65,9 @@
 ## 8. Next Steps & Future work
 
 
+
 ## 9. Citations
+
+
 
 ## 10. Acknowledgements
