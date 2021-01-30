@@ -88,3 +88,7 @@ The Mass Mobilization Project ([*source*](https://massmobilization.github.io/abo
 All of our data and inspiration for our project is from "The Mass Mobilization Project" conducted by Professor David H. Clark from Bighamton Universty and Professor Patrick M. Regan from the University of Notre Dame. 
 
 Thank you for your work in retreiving the data and providing a site for further exploration.
+
+
+
+Thank you again.
