@@ -17,22 +17,11 @@
 
 ## 1. Executive Summary
 
-As most of you know, the original intent of the MM study was to inform foreign policy and understand the impact of mass mobilizations outside the United States.
+In light of the mass mobilization events over the past year, protests are basically commonplace in modern day America. More importantly, the way the US government responds is under increasing scrutiny. For this reason, the US government ought to have better tools for understanding and preparing for protests and demonstrations.
 
-In light of the mass mobilization events over the past year, the US government wants to better understand and prepare for protests and demonstrations that happen on US soil. The government recognizes the need
-improve their preparedness respond to future events in ways that address protester concerns
-encourage peaceful resolutions for all parties.
+The Mass Mobilization Project is a site that hosts data about citizen movements against governments. The original intent of the MM study was to inform foreign policy and understand the impact of mass mobilizations outside the United States. The data contains around 17,000 protests where 50 or more individually publically protested against government. More information can be found at the website: massmobilization.github.io. 
 
-
-
-
-#### *Why Do I Care?*
-Protests are commonplace in modern day America. This obviously comes 
-
-
-#### *The Solution!*
-
-
+Our goal is to prepare the data for machine learning modeling and predict a government's response. In the end, we hope that given a good product that makes reasonably accurate predictions, we can yield meaningful insights from the data, infer relationships between public protests and governments responses, and add context to the ongoing conversation of protests in America.
 
 ## 2. Data Collection
 
@@ -52,7 +41,6 @@ The data was gathered by scraping various news publication platform. As a result
 
 ## 5. Modeling
 
-
 At first glance, we were presented with a multi-label classification problem i.e. a government can have multiple responses to the same protest. For these reasons, we initially built a couple of models: a Neural Network and a sklearn Multilabel Classifier using bagging and random forests ensemble methods. Our neural network model was promising given the first iteration, but we quickly realized we could not interpret any meaningful insights from it. Our Multilabel Classifier did not perform well. 
 
 For the second modeling effort, we built seven different logistic regressions for each of our target variables, effectively running a binary classification on each class. The results for these models varied widely and predictions were not reliable for classses that were less frequent in the data. This is a pitfall for having massively imbalanced data. More importantly to our interests, the violent responses were massively underepresented. 
@@ -67,7 +55,6 @@ Please see the images folder in our repo for our final modeling technique's perf
 
 
 ## 6. Evaluation & Analysis
-
 
 
 
