@@ -75,7 +75,7 @@ Please see the images folder in our repo for our final modeling technique's perf
 ## 6. Evaluation & Analysis
 
 | Target          | cross val | specificity | precision | recall   |
-|-----------------------------|-------------|-----------|----------|
+|-----------------|-----------|-------------|-----------|----------|
 | ignore          | 0.787     | 0.533       | **0.700** | **0.894**|
 | crowd dispersal | 0.726     | 0.316       | **0.727** |**0.899** |                             
 | arrests         | 0.619     | 0.276       | **0.343** | **0.861**|                            
@@ -84,17 +84,31 @@ Please see the images folder in our repo for our final modeling technique's perf
 | beatings        | 0.793     | **0.595**   | 0.242     | **0.852**|
 | shootings       | 0.683     | **0.584**   | 0.180     | **0.726**|
 
-
+When evaluating multiple targets, some of which are desirable and some not, metric selection can be complicated. In addition, the imbalanced classes in our data impacted some metrics more than others. We considered the following metrics with the following conclusions:
+|Metric|Description|Usefulness in our Analysis|
+|---|---|---|
+|Confusion Matrix & Metrics|True Positive (TP), True Negatives (TN), False Positives (FP), False Negatives (FP)|These four metrics break out every prediction made by the model and classifies them by whether or not an outcome happened in reality (Positive, Negative) and whether the model predicted that outcome or not (True, False). These metrics are the building blocks for the measures below, some of which were beneficial to our analysis and some of which were not.|
+|Accuracy Score|Number of correct predictions (TP & TN) over all predictions|Not useful for our models due to imbalance. Small classes are never predicted, but model still achieves strong accuracy simply by predicting majority class.|
+|Precision Score|Number of accurate positive predictions (TP) over all positive predictions (TP & FP).|Useful when predicting non-violent outcomes, like Ignore or Crowd Dispersal. Precision optimizes for True positives and limits True negatives, and allows for higher False Negatives. In this case, it is better to incorrectly assume too few non-violent responses, than to predict too many, which would mean you'd end up with a potentially violent response.|
+|Specificity Score|Number of accurate negative predictions (TN) over all negatives (TN & FP).|Useful when predicting violent responses, especially when Beatings, Shootings, Killings are rolled together as a single target. The "negative" outcome when the target is violent is actually a non-violent outcome. In general, we would not want to predict a non-violent (FN) response when it was actually violent (TP). Specificity minimizes these false negatives, making it a good metric when dealing with the violent target variable.|  
+|Recall/Sensitivity|Number of accurate positive predictions (TP) over all positives (TP & FN).|Recall is a good measure for understanding the effectiveness of your model to accurately predict the positive of your target variable. In this case, recall can inform both violent and non-violent targets, as it isolates situations where the target did happen (positive) and looks at the accuracy of predicting that positive. Because of the imbalance in our classes, this measure is more useful than accuracy, because it narrows in on just positive targets. The higher the recall score when predicting a minority class, the more the model was above to overcome the imbalance issues.|
+Our final models performed on these key metrics as follows:
+#### Model Predicting State Response: Ignore
+![Ignore Metrics](./images/ignore_metrics_chart.png)
+When predicting a target of "Ignore", a non-violent state response, Precision and Recall are most important. As you can see above, our final Logistic Regression model achieved a .70 Precision, and .90 Recall.  
+#### Model Predicting State Responses: Beatings, Shootings, Killings
+![Violent Metrics](./images/violent_response_metrics_chart.png)
+Because these are violent state responses, we want to focus on Specificity and Recall with these models. With Specificity scores ranging from .58 to .65, and Recall ranging from .73 to .84, these final models are finding ways to correct the natural imbalance in the data. More tuning could continue to improve these scores and improve the usefulness of the model for forward.  
 
 ## 7. Conclusion 
 
 Given a model with reasonable scores, we were most interested in highlighting relationships in the data when the government either ignores protests or violently responds to them. Conclusions for the ignore target were relatively straight forward and expected. For instance, governments were more likely to ignore protests in countries with a higher prosperity index score. An interesting nuance in the findings is governments were less likely to ignore small protests and more likely to ignore larger protests. Intuitively, perhaps larger protests are more organized and anticipated whereas smaller protests are unpredictable, which is more likely to raise uncertainty for the government at hand. 
 
-<img src="./images/ignore_coefficients.png" width="350" height="200">
+<img src="./images/ignore_coefficients.png" width="550" height="250">
 
 As for violent responses, all three target variables (killings, shootings, and beatings) had similar important features. Obviously, if protesters were violent, the government responded violently. Europe was an important feature when the government is less likely to respond violently for two of the categories, and Asia was an important feature for violent responses of two of the categories as well.
 
-<img src="./images/violent_response_coefficients.png" width="350" height="200">
+<img src="./images/violent_response_coefficients.png" width="550" height="250">
 
 All in all, it was a generally mixed bag as these relationships over a few dozen features is complex, but we feel good about our model and it's scores and feel relatively confident about any inferences our model reveals. 
 
