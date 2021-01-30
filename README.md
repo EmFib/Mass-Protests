@@ -17,6 +17,12 @@
 
 ## 1. Executive Summary
 
+As most of you know, the original intent of the MM study was to inform foreign policy and understand the impact of mass mobilizations outside the United States.
+
+In light of the mass mobilization events over the past year, the US government wants to better understand and prepare for protests and demonstrations that happen on US soil. The government recognizes the need
+improve their preparedness
+respond to future events in ways that address protester concerns
+encourage peaceful resolutions for all parties.
 
 
 #### *Why Do I Care?*
