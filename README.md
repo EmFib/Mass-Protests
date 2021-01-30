@@ -18,7 +18,7 @@
 
 In light of the mass mobilization events over the past year, protests are basically commonplace in modern day America. More importantly, the way the US government responds is under increasing scrutiny. For this reason, the US government ought to have better tools for understanding and preparing for protests and demonstrations.
 
-The Mass Mobilization Project is a site that hosts data about citizen movements against governments. The original intent of the MM study was to inform foreign policy and understand the impact of mass mobilizations outside the United States. The data contains around 17,000 protests where 50 or more individually publically protested against government. More information can be found at the website: massmobilization.github.io.
+The Mass Mobilization Project is a site that hosts data about citizen movements against governments. The original intent of the MM study was to inform foreign policy and understand the impact of mass mobilizations outside the United States. The data contains around 17,000 protests where 50 or more individually publicly protested against government. More information can be found at the website: massmobilization.github.io.
 
 Our goal is to prepare the data for machine learning modeling and predict a government's response. In the end, we hope that given a good product that makes reasonably accurate predictions, we can yield meaningful insights from the data, infer relationships between public protests and governments responses, and add context to the ongoing conversation of protests in America.
 
@@ -34,7 +34,7 @@ We also gathered data from the UN ([*source*](https://population.un.org/wpp/Down
 The researchers at the Mass Mobilization project had scraped the protest data from news publication, so the resulting dataset revealed a high degree of variability and ambiguity in several of the features. The original dataset had over 17,000 protests included, so each one was a row in the DataFrame. In order to get the data ready for EDA and subsequent modeling, our team performed the following cleaning and pre-processing steps:
 
 + Dropped rows where `protest` column was equal to 0, as the project methodology gave no explanation for where the 0/1 distinction.
-+ Bucketed `participantsidentity` into the following categories, which we then encoded as binary variables:
++ Bucketed `protesteridentity` into the following categories, which we then encoded as binary variables:
   - Civil/human rights groups
   - Ethnic groups
   - Local residents
@@ -174,13 +174,13 @@ After removing all country and any other features deemed unnecessary, the set of
 
 At first glance, we were presented with a multi-label classification problem i.e. a government can have multiple responses to the same protest. For these reasons, we initially built a couple of models: a Neural Network and a sklearn Multilabel Classifier using bagging and random forests ensemble methods. Our neural network model was promising given the first iteration, but we quickly realized we could not interpret any meaningful insights from it. Our Multilabel Classifier did not perform well.
 
-For the second modeling effort, we built seven different logistic regressions for each of our target variables, effectively running a binary classification on each class. The results for these models varied widely and predictions were not reliable for classses that were less frequent in the data. This is a pitfall for having massively imbalanced data. More importantly to our interests, the violent responses were massively underepresented.
+For the second modeling effort, we built seven different logistic regressions for each of our target variables, effectively running a binary classification on each class. The results for these models varied widely and predictions were not reliable for classes that were less frequent in the data. This is a pitfall for having massively imbalanced data. More importantly to our interests, the violent responses were massively underrepresented.
 
-The third modeling effort was a slight spinoff from our second modeling effort. First, we ran a binary logistic regression on whether or not the state government ignored a protest. After running this model, we filtered our data to exclude points where the government did not ignore a protest (i.e. which can be interpeted as when the government did respond). We then ran six different binary logistic regressions for each of the remaining six variables. Treating the ignore logistic regression separately reduced imbalances in our data and improved our scores across the board, especially for our columns of interest: the violent responses.
+The third modeling effort was a slight spinoff from our second modeling effort. First, we ran a binary logistic regression on whether or not the state government ignored a protest. After running this model, we filtered our data to exclude points where the government did not ignore a protest (i.e. which can be interpreted as when the government did respond). We then ran six different binary logistic regressions for each of the remaining six variables. Treating the ignore logistic regression separately reduced imbalances in our data and improved our scores across the board, especially for our columns of interest: the violent responses.
 
 Given a decent product, we ran a gridsearch on several hyperparameters with an emphasis on the 'class_weight' of our logistic regression, which effectively penalizes wrong predictions for the class at hand based on a ratio default is 1:1).
 
-We even went a step further and grouped all three of the violent responses--beatings, killiings, and shootings--into one 'violent_response' column in order to reduce imbalances even more. However, this did not increase the scores of our model.
+We even went a step further and grouped all three of the violent responses--beatings, killings, and shootings--into one 'violent_response' column in order to reduce imbalances even more. However, this did not increase the scores of our model.
 
 Please see the images folder in our repo for our final modeling technique's performance metrics, confusion matrices, and AUC plots.
 
@@ -192,7 +192,7 @@ Please see the images folder in our repo for our final modeling technique's perf
 | ignore          | 0.787     | 0.533       | **0.700** | **0.894**|
 | crowd dispersal | 0.726     | 0.316       | **0.727** |**0.899** |                             
 | arrests         | 0.619     | 0.276       | **0.343** | **0.861**|                            
-| accomodation    | 0.726     | 0.735       | **0.364** | **0.581**|
+| accommodation   | 0.726     | 0.735       | **0.364** | **0.581**|
 | killings        | 0.779     | **0.648**   | 0.224     | **0.797**|
 | beatings        | 0.793     | **0.595**   | 0.242     | **0.852**|
 | shootings       | 0.683     | **0.584**   | 0.180     | **0.726**|
@@ -244,6 +244,6 @@ Ultimately, gathering more data for the sake of creating more balanced classes w
 
 ## 9. Acknowledgements
 
-All of our data and inspiration for our project is from "The Mass Mobilization Project" conducted by Professor David H. Clark from Bighamton Universty and Professor Patrick M. Regan from the University of Notre Dame.
+All of our data and inspiration for our project is from "The Mass Mobilization Project" conducted by Professor David H. Clark from Binghamton University and Professor Patrick M. Regan from the University of Notre Dame.
 
 Thank you for your work in retrieving the data and providing a site for further exploration.
