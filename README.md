@@ -25,8 +25,9 @@ Our goal is to prepare the data for machine learning modeling and predict a gove
 
 ## 2. Data Collection
 
-*See notebook: [01_Web_Scraping_&_Data_Collection](projects/project_3/code/01_Web_Scraping_&_Data_Collection.ipynb)*
+We gathered data from the Mass Mobilization Project ([*source*](https://massmobilization.github.io/about.html)), which scraped information about over 17,000 different protests across the world from the *New York Times*, *Washington Post*, *Christian Science Monitor*, and *Times of London* from 1990-2020.
 
+We also gathered data from the UN ([*source*](https://population.un.org/wpp/Download/Standard/CSV/)) regarding population metrics for each of the countries in the Mass Mobilization data set and the Legatum Institute ([*source*](https://www.prosperity.com/about/methodology)) for information regarding the prosperity of regions and countries in the data. 
 
 
 ## 3. Data Cleaning & Pre-Processing
@@ -56,6 +57,18 @@ Please see the images folder in our repo for our final modeling technique's perf
 
 ## 6. Evaluation & Analysis
 
+| Target          | cross val | specificity | precision | recall   |
+|-----------------------------|-------------|-----------|----------|
+| ignore          | 0.787     | 0.533       | **0.700** | **0.894**|
+| crowd dispersal | 0.726     | 0.316       | **0.727** |**0.899** |                             
+| arrests         | 0.619     | 0.276       | **0.343** | **0.861**|                            
+| accomodation    | 0.726     | 0.735       | **0.364** | **0.581**|
+| killings        | 0.779     | **0.648**   | 0.224     | **0.797**|
+| beatings        | 0.793     | **0.595**   | 0.242     | **0.852**|
+| shootings       | 0.683     | **0.584**   | 0.180     | **0.726**|
+
+
+
 
 
 ## 7. Conclusion 
@@ -78,12 +91,7 @@ In terms of the modeling, we believe our model can be improved and it's worth co
 Ultimately, gathering more data for the sake of creating more balanced classes would improve the predictive power of our models and the interpretability of them. With this in mind, we also believe it is prudent and absolutely necessary to gather the same data about US protests so that we can learn about mass mobilization at home. 
 
 
-## 9. Citations
-The Mass Mobilization Project ([*source*](https://massmobilization.github.io/about.html)). 
-
-
-
-## 10. Acknowledgements
+## 9. Acknowledgements
 
 All of our data and inspiration for our project is from "The Mass Mobilization Project" conducted by Professor David H. Clark from Bighamton Universty and Professor Patrick M. Regan from the University of Notre Dame. 
 
