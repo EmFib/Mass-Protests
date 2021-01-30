@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-1. [Executive Summary](#1.-Executive-Summary)
-2. [Data Collection](#2.-Data-Collection)
+1. [Executive Summary](#1.Executive-Summary)
+2. [Data Collection](#Data-Collection)
 3. [Data Cleaning & Pre-Processing](#3.-Data-Cleaning-&-Pre-Processing)
 4. [EDA](#4.-EDA)
 5. [Modeling](#5.-Modeling)
@@ -12,7 +12,6 @@
 8. [Next Steps & Future work](#8.-Next-Steps-&-Future-work)
 9. [Citations](#9.-Citations)
 10. [Acknowledgements](#10.-Acknowledgements)
-
 
 
 ## 1. Executive Summary
@@ -25,14 +24,127 @@ Our goal is to prepare the data for machine learning modeling and predict a gove
 
 ## 2. Data Collection
 
-*See notebook: [01_Web_Scraping_&_Data_Collection](projects/project_3/code/01_Web_Scraping_&_Data_Collection.ipynb)*
 
 
 
 ## 3. Data Cleaning & Pre-Processing
 
-The data was gathered by scraping various news publication platform. As a result, the majority of the data was clunky and more or less open to interpretation, which is not ideal for machine learning.
+The researchers at the Mass Mobilization project had scraped the protest data from news publication, so the resulting dataset revealed a high degree of variability and ambiguity in several of the features. The original dataset had over 17,000 protests included, so each one was a row in the DataFrame. In order to get the data ready for EDA and subsequent modeling, our team performed the following cleaning and pre-processing steps:
 
++ Dropped rows where `protest` column was equal to 0, as the project methodology gave no explanation for where the 0/1 distinction.
++ Bucketed `participantsidentity` into the following categories, which we then encoded as binary variables:
+  - Civil/human rights groups
+  - Ethnic groups
+  - Local residents
+  - Pensioners/retirees
+  - Prisoners
+  - Protesters (generic)
+  - Religious groups
+  - Soldiers/veterans
+  - Students/youth
+  - Families of victims
+  - Women
+  - Workers/unions
++ Encoded the following features as to create binary features for modeling:
+  - country
+  - region
++ `participants` and `participants_category` columns both gave information about the number of protesters involved and were both partially filled-in. We combined these into one column that had the range of protester numbers for every protest. We then encoded this new column so that we had seven new columns that each indicated whether a given protest had protester numbers recorded to be in that range:
+  - Number of participants <50
+  - 50 - 99 participants
+  - 100 - 999 participants
+  - 1,000 - 4,999 participants
+  - 5,000 - 9,999 participants
+  - 10,000 - 100,000 participants
+  - Number of participants >100,000
++ Turned the four columns called `protesterdemand` into seven new binary-encoded columns, one for each protest motivation:
+  - Labor & wage disputes
+  - Land & farming conflicts
+  - Police brutality
+  - Political behavior or processing
+  - Tax increases / tax policy
+  - Removal of politician(s)
+  - Social restrictions
++ Turned the seven columns called `stateresponse` into seven new binary-encoded columns, one for each of the state responses:
+  - accomodation
+  - arrests
+  - beatings
+  - crowd dispersal
+  - ignore
+  - killings
+  - shootings
+
+At the end of the data cleaning process, our new data landscape looked like this:
+
+**Columns included in feature set:**
+
+|Feature|Type|Description|
+|---|---|---|
+|protestnumber|int|Number of protests that year in specific country|
+|protesterviolence|int(binary)|Indicates whether protester enacted violence|
+|pop_total|float|Population of country where protest takes place|
+|pop_density|float|Population density of country where protest takes place|
+|prosperity_2020|float|Prosperity index of country the year protest takes place|
+|region_Africa|int (binary)|Country is in Africa|
+|region_Asia|int (binary)|Country is in Asia|
+|region_Central America|int  (binary)|Country is in Central America|
+|region_Europe|int (binary)|Country is in Europe|
+|region_MENA|int (binary)|Country is in the Middle East/North Africa|
+|region_North America|int (binary)|Country is in North America|
+|region_Oceania|int (binary)|Country is in Oceania|
+|region_South America|int (binary)|Country is in South America|
+|protest_size_category_Less than 50|int (binary)|Number of participants <50|
+|protest_size_category_50-99|int (binary)|50 - 99 participants|
+|protest_size_category_100-999|int (binary)|100 - 999 participants|
+|protest_size_category_1,000-4,999|int (binary)|1,000 - 4,999 participants|
+|protest_size_category_5,000-9,999|int (binary)|5,000 - 9,999 participants|
+|protest_size_category_10,000-100,000|int (binary)|10,000 - 100,000 participants|
+|protest_size_category_Over 100,000|int (binary)|Number of participants >100,000|
+|protester_id_type_civil_human_rights|int (binary)|Indicates participants are civil/human rights group|  
+|protester_id_type_ethnic_group|int (binary)|Indicates participants are ethnic group|
+|protester_id_type_locals_residents|int(binary)|Indicates participants are local residents|
+|protester_id_type_pensioners_retirees|int (binary)|Indicates participants are pensioner/retirees|
+|protester_id_type_prisoners|int (binary)|Indicates participants are prisoners|
+|protester_id_type_protestors_generic|int (binary)|Indicates participants are generic group|
+|protester_id_type_religious_group|int (binary)|Indicates participants are from religious group|    
+|protester_id_type_soldiers_veterans|int (binary)|Indicates participants are soldiers/veterans|
+|protester_id_type_students_youth|int (binary)|Indicates participants are students/youth|
+|protester_id_type_victims_families|int (binary)|Indicates participants are families of victims|
+|protester_id_type_women|int (binary)|Indicates participants are primarily groups of women|
+|protester_id_type_workers_unions|int (binary)|Indicates participants are union members or workers|
+|labor_wage_dispute|int( binary)|Protest motivation is labor & wage disputes|
+|land_farm_issue|int (binary)|Protest motivation is land and farming conflict|
+|police_brutality|int (binary)|Protest motivation is police brutality|
+|political_behavior_process|int (binary)|Protest motivation is political behavior or process|
+|price increases_tax_policy|int (binary)|Protest motivation is tax increase/tax policy|
+|removal_of_politician|int (binary)|Protest motivation is removal of politician(s)|
+|social_restrictions|int (binary)|Protest motivation associated with social restrictions|
+
+**Other columns in original dataset that were not included in our final model:**
+
+|Feature|Type|Description|
+|---|---|---|
+|id|int|Unique protest id number|
+|country|object|Country of protest|
+|ccode|int|Unique code for country|
+|location|object|Description of where protest takes place within country|
+|sources|object|Media outlets that reported on protest|
+|notes|object|Description of protest|
+|participants_number|int|Estimated number of participants|
+|start_date|object|Recorded start date of protest|
+|end_date|object|Recorded end date of protest|
+
+**Columns included as target variables:**
+
+|Target|Type|Description|
+|---|---|---|
+|accomodation|int (binary)|State response includes accommodation of protester demands|
+|arrests|int (binary)|State response includes arrests of protesters|
+|beatings|int (binary)|State response includes beating protesters|
+|crowddispersal|int (binary)|State response includes crowd dispersal|
+|ignore|int (binary)|State ignores protesters and protest demands|
+|killings|int (binary)|State response includes killing protesters|
+|shootings|int( binary)|State response includes shooting protesters|
+|violent_response|int (binary)|State response includes one or more violent response (beatings, shootings, killings)|
 
 
 ## 4. EDA
@@ -82,10 +194,9 @@ Ultimately, gathering more data for the sake of creating more balanced classes w
 The Mass Mobilization Project ([*source*](https://massmobilization.github.io/about.html)).
 
 
-
 ## 10. Acknowledgements
 
-All of our data and inspiration for our project is from "The Mass Mobilization Project" conducted by Professor David H. Clark from Bighamton Universty and Professor Patrick M. Regan from the University of Notre Dame. 
+All of our data and inspiration for our project is from "The Mass Mobilization Project" conducted by Professor David H. Clark from Bighamton Universty and Professor Patrick M. Regan from the University of Notre Dame.
 
 Thank you for your work in retrieving the data and providing a site for further exploration.
 
