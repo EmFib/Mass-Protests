@@ -38,6 +38,23 @@ The data was gathered by scraping various news publication platform. As a result
 
 ## 4. EDA
 
+After the end of the data cleaning phase, we are left with one large main dataframe, which contains around 15,000 rows of data. At this stage, all categorical features columns have been encoded into a large collection of binary columns to represent each country, protestor category, protester type, etc. The new total number of columns at this state becomes 235.
+
+Some analysis reveals the distribution of some of the input features.
+
+![Protester ID Types](./images/Graph-ProtesterIdType.png)
+
+<img src="./images/protest_size_categories.png" width="500" height="250">
+
+
+
+<br>
+
+After considering the possible effects using all of the encoded country names, we determined that doing that might add too many unimportant features, since a protest's general location is captured in a 'Region' field.
+
+Some extra analysis was done running the text contained in the **notes** field through a Natural Language Processor, but this could have introduced information that is too highly correlated to the model's target variables, and was Ultimately not used as an input feature.  For example, a negative description in the **notes** field might skew the results.
+
+After removing all country and any other features deemed unnecessary, the set of data to be passed into our models was reduced to approximately 70 columns.
 
 
 ## 5. Modeling
@@ -75,7 +92,7 @@ Given a model with reasonable scores, we were most interested in highlighting re
 
 <img src="./images/ignore_coefficients.png" width="350" height="200">
 
-As for violent responses, all three target variables (killings, shootings, and beatings) had similar important features. Obviously, if protesters were violent, the goverment responded violently. Europe was an important feature when the government is less likely to respond violently for two of the categories, and Asia was an important feature for violent responses of two of the categories as well.
+As for violent responses, all three target variables (killings, shootings, and beatings) had similar important features. Obviously, if protesters were violent, the government responded violently. Europe was an important feature when the government is less likely to respond violently for two of the categories, and Asia was an important feature for violent responses of two of the categories as well.
 
 <img src="./images/violent_response_coefficients.png" width="350" height="200">
 
@@ -96,6 +113,12 @@ Ultimately, gathering more data for the sake of creating more balanced classes w
 
 ## 9. Acknowledgements
 
+<<<<<<< HEAD
 All of our data and inspiration for our project is from "The Mass Mobilization Project" conducted by Professor David H. Clark from Bighamton Universty and Professor Patrick M. Regan from the University of Notre Dame. 
 
 Thank you for your work in retreiving the data and providing a site for further exploration.
+=======
+All of our data and inspiration for our project is from "The Mass Mobilization Project" conducted by Professor David H. Clark from Bighamton Universty and Professor Patrick M. Regan from the University of Notre Dame.
+
+Thank you for your work in retrieving the data and providing a site for further exploration.
+>>>>>>> 19294994ae94104b48583ead5fa0bd65591e3377
